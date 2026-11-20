@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>learning feed</title>
+<meta name="description" content="The latest videos from a few YouTube channels, with no recommendations and no Shorts.">
+<style>
+  :root {
+    --bg: #fbfaf7;
+    --fg: #1d1c1a;
+    --muted: #6f6b64;
+    --line: #e4e0d8;
+    --hover: #f0ede6;
+    color-scheme: light dark;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #151413;
+      --fg: #ecebe8;
+      --muted: #9a958d;
+      --line: #2e2c29;
+      --hover: #201e1c;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font: 15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 22px; margin: 0 0 4px; letter-spacing: -0.01em; }
+  header p { margin: 0; color: var(--muted); }
+
+  nav { display: flex; flex-wrap: wrap; gap: 6px; margin: 20px 0 10px; }
+  nav button {
+    font: inherit;
+    font-size: 14px;
+    color: var(--fg);
+    background: transparent;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 4px 12px;
+    cursor: pointer;
+  }
+  nav button:hover { background: var(--hover); }
+  nav button[aria-pressed="true"] { background: var(--fg); border-color: var(--fg); color: var(--bg); }
+
+  ol { list-style: none; margin: 0; padding: 0; }
+  li a {
+    display: flex;
+    gap: 14px;
+    align-items: flex-start;
+    margin: 0 -10px;
+    padding: 10px;
+    border-radius: 10px;
+    color: inherit;
+    text-decoration: none;
+  }
+  li a:hover, li a:focus-visible { background: var(--hover); outline: none; }
+  li img {
+    flex: none;
+    width: 168px;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border-radius: 6px;
+    background: var(--line);
+  }
+  .text { min-width: 0; }
+  .title {
+    font-weight: 600;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .meta { margin-top: 4px; color: var(--muted); font-size: 13px; }
+  li.seen a { opacity: 0.5; }
+  .note { color: var(--muted); padding: 24px 0; }
+
+  footer { margin-top: 32px; color: var(--muted); font-size: 13px; }
+  footer a { color: inherit; }
+
+  dialog {
+    width: min(960px, calc(100vw - 32px));
+    max-width: none;
+    padding: 0;
+    border: 0;
+    border-radius: 10px;
+    overflow: hidden;
+    background: #000;
+    color: #ddd;
+  }
+  dialog::backdrop { background: rgba(0, 0, 0, 0.8); }
+  .bar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 6px 8px 6px 14px;
+    background: #111;
+    font-size: 13px;
+  }
+  .bar span { flex: 1; min-width: 0; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+  .bar a { color: #aaa; }
+  .bar button {
+    font: inherit;
+    font-size: 16px;
+    color: #ddd;
+    background: none;
+    border: 0;
+    padding: 2px 8px;
+    cursor: pointer;
+  }
+  dialog iframe { display: block; width: 100%; aspect-ratio: 16 / 9; border: 0; }
+
+  @media (max-width: 520px) {
+    li a { gap: 10px; }
+    li img { width: 120px; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>learning feed</h1>
+    <p>The latest videos from a few channels. No recommendations, no Shorts.</p>
+  </header>
+  <nav id="filters" aria-label="Channels"></nav>
+  <ol id="list"></ol>
+  <p class="note" id="note" hidden></p>
+  <footer>
+    Checked against each channel's YouTube feed every 3 hours.
+    <a href="https://github.com/reservetempo/learning-feed">Source</a>
+  </footer>
+</main>
+
+<dialog id="player" aria-label="Video player">
+  <div class="bar">
+    <span id="now"></span>
+    <a id="on-youtube" target="_blank" rel="noopener">YouTube</a>
+    <button id="close" type="button" aria-label="Close">✕</button>
+  </div>
+  <iframe id="frame" title="Video" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>
+</dialog>
+
+<script>
+  const $ = (id) => document.getElementById(id);
+  const list = $('list');
+  const note = $('note');
+  const player = $('player');
+  const frame = $('frame');
+
+  // Videos you have opened are dimmed. Kept in this browser only.
+  const WATCHED_KEY = 'learning-feed:watched';
+  let watched = new Set();
+  try { watched = new Set(JSON.parse(localStorage.getItem(WATCHED_KEY) || '[]')); } catch {}
+  function markWatched(id) {
+    watched.add(id);
+    try { localStorage.setItem(WATCHED_KEY, JSON.stringify([...watched])); } catch {}
+  }
+
+  const rtf = new Intl.RelativeTimeFormat('en', { numeric: 'auto' });
+  const UNITS = [['year', 31536000], ['month', 2592000], ['week', 604800], ['day', 86400], ['hour', 3600]];
+  function ago(iso) {
+    const s = (new Date(iso) - Date.now()) / 1000;
+    for (const [unit, size] of UNITS) if (Math.abs(s) >= size) return rtf.format(Math.round(s / size), unit);
+    return 'just now';
+  }
+
+  let videos = [];
+  let current = 'All';
+
+  function el(tag, props) { return Object.assign(document.createElement(tag), props); }
+
+  function render() {
+    const shown = current === 'All' ? videos : videos.filter((v) => v.channel === current);
+    list.replaceChildren(...shown.map(row));
+    note.hidden = shown.length > 0;
+    if (!shown.length) note.textContent = 'No videos yet. The list fills in after the next update.';
+  }
+
+  function row(v) {
+    const li = el('li', { className: watched.has(v.id) ? 'seen' : '' });
+    const a = el('a', { href: 'https://www.youtube.com/watch?v=' + v.id });
+    const img = el('img', { src: `https://i.ytimg.com/vi/${v.id}/mqdefault.jpg`, alt: '', loading: 'lazy' });
+    const meta = el('div', { className: 'meta', title: new Date(v.published).toLocaleString() });
+    const setMeta = () => { meta.textContent = `${v.channel} · ${ago(v.published)}${watched.has(v.id) ? ' · watched' : ''}`; };
+    setMeta();
+    const text = el('div', { className: 'text' });
+    text.append(el('div', { className: 'title', textContent: v.title }), meta);
+    a.append(img, text);
+    li.append(a);
+    a.addEventListener('click', (e) => {
+      if (e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return; // let new-tab clicks through
+      e.preventDefault();
+      play(v);
+      markWatched(v.id);
+      li.className = 'seen';
+      setMeta();
+    });
+    return li;
+  }
+
+  function play(v) {
+    frame.src = `https://www.youtube-nocookie.com/embed/${v.id}?autoplay=1&rel=0`;
+    $('now').textContent = v.title;
+    $('on-youtube').href = 'https://www.youtube.com/watch?v=' + v.id;
+    player.showModal();
+  }
+  player.addEventListener('close', () => { frame.src = 'about:blank'; });
+  player.addEventListener('click', (e) => { if (e.target === player) player.close(); }); // click outside the video
+  $('close').addEventListener('click', () => player.close());
+
+  function filters(channels) {
+    const nav = $('filters');
+    const names = ['All', ...channels.map((c) => c.name)];
+    nav.replaceChildren(...names.map((name) => {
+      const b = el('button', { type: 'button', textContent: name });
+      b.setAttribute('aria-pressed', String(name === current));
+      b.addEventListener('click', () => {
+        current = name;
+        for (const other of nav.children) other.setAttribute('aria-pressed', String(other === b));
+        render();
+      });
+      return b;
+    }));
+  }
+
+  Promise.all([
+    fetch('channels.json').then((r) => r.json()),
+    fetch('videos.json', { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : { videos: [] })),
+  ])
+    .then(([channels, data]) => {
+      videos = data.videos || [];
+      filters(channels);
+      render();
+    })
+    .catch(() => {
+      note.hidden = false;
+      note.textContent = 'Could not load the video list.';
+    });
+</script>
+</body>
+</html>
