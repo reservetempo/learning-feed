@@ -8,7 +8,7 @@ Live: https://reservetempo.github.io/learning-feed/
 
 - `channels.json` lists the channels.
 - `scripts/update.mjs` reads each channel's public YouTube feed (no API key needed) and writes its 15 newest regular videos to `videos.json`.
-- `.github/workflows/update.yml` runs that script every 3 hours and commits `videos.json` when it changes. GitHub Pages then republishes the site.
+- `.github/workflows/update.yml` runs that script once a day in the morning (11:17 UTC) and commits `videos.json` when it changes. GitHub Pages then republishes the site.
 
 ## Add a channel
 
