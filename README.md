@@ -1,6 +1,6 @@
 # learning feed
 
-The latest videos from a short list of YouTube channels (for now 3Blue1Brown and Veritasium), with no recommendations and no Shorts. Videos play on the page through YouTube's privacy-enhanced embed.
+The latest videos from a short list of YouTube channels (3Blue1Brown, Veritasium, and the S, A and B tier channels from [TristanTube](https://karpathy.ai/tristan-tube/)), with no recommendations and no Shorts. Videos play on the page through YouTube's privacy-enhanced embed.
 
 Live: https://reservetempo.github.io/learning-feed/
 

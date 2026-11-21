@@ -1,11 +1,29 @@
 {
-  "updated": "2026-11-20T22:14:55.500Z",
+  "updated": "2026-11-21T13:44:07.812Z",
   "videos": [
+    {
+      "id": "tDrGZPt4qIY",
+      "title": "The Worst Possible Swing Technique",
+      "channel": "Steve Mould",
+      "published": "2026-11-20T22:51:34+00:00"
+    },
+    {
+      "id": "mZyeMsLL26E",
+      "title": "Thermite Powered Instant Phone Charger (now reusable!)",
+      "channel": "The Thought Emporium",
+      "published": "2026-11-20T16:47:09+00:00"
+    },
     {
       "id": "uXuQF_PPg5U",
       "title": "Randomness is a lie. Let me explain",
       "channel": "Veritasium",
       "published": "2026-11-18T20:29:44+00:00"
+    },
+    {
+      "id": "D4slpOsnXPY",
+      "title": "Single Flute Bits Are WEIRD!",
+      "channel": "Know Art",
+      "published": "2026-11-18T18:57:35+00:00"
     },
     {
       "id": "qbsb9DpdZ6s",
@@ -14,10 +32,112 @@
       "published": "2026-11-17T16:43:16+00:00"
     },
     {
+      "id": "rj-G_gmFWtE",
+      "title": "Why Are There So Many Different Transmission Towers?",
+      "channel": "Practical Engineering",
+      "published": "2026-11-17T14:00:10+00:00"
+    },
+    {
+      "id": "8tqtdvFw-9I",
+      "title": "Why Square Wheels Are FASTER Down A Slope",
+      "channel": "Know Art",
+      "published": "2026-11-14T16:00:34+00:00"
+    },
+    {
+      "id": "8lkIFYpI0p8",
+      "title": "RIPE for Change",
+      "channel": "USCSB",
+      "published": "2026-11-12T15:14:45+00:00"
+    },
+    {
+      "id": "n05Yu3UAI_o",
+      "title": "My First Mistake as an Engineer",
+      "channel": "Practical Engineering",
+      "published": "2026-11-10T14:00:20+00:00"
+    },
+    {
+      "id": "xod_mCN-K38",
+      "title": "What Is Worth Saving Before the ISS Deorbits?",
+      "channel": "Real Engineering",
+      "published": "2026-11-07T16:32:11+00:00"
+    },
+    {
+      "id": "eFwFXjgD1ak",
+      "title": "How Much Video Editing Power Can We Fit in a Tiny PC?",
+      "channel": "Tech Ingredients",
+      "published": "2026-11-07T16:00:07+00:00"
+    },
+    {
+      "id": "ln0zZcQXv38",
+      "title": "Creating Logic using Waves: Photonic Gates",
+      "channel": "Huygens Optics",
+      "published": "2026-11-05T12:14:24+00:00"
+    },
+    {
+      "id": "zZ4T26qbpiE",
+      "title": "I Launched My Selfie Camera Payload to 30,000ft",
+      "channel": "BPS.space",
+      "published": "2026-11-04T22:07:06+00:00"
+    },
+    {
+      "id": "qAG2hhjHcA0",
+      "title": "The component that keeps the nukes spicy.",
+      "channel": "The Thought Emporium",
+      "published": "2026-11-04T18:08:27+00:00"
+    },
+    {
       "id": "KfODG5REyss",
       "title": "I finally saw quantum physics with my own eyes... (It's spookier than I expected)",
       "channel": "Veritasium",
       "published": "2026-11-04T15:52:59+00:00"
+    },
+    {
+      "id": "JsRiC6vGb1E",
+      "title": "Windows Are Absurd",
+      "channel": "Practical Engineering",
+      "published": "2026-11-03T14:00:39+00:00"
+    },
+    {
+      "id": "BuRyQYf03xA",
+      "title": "My dog won't stay out of mud so I made this...",
+      "channel": "Stuff Made Here",
+      "published": "2026-11-01T03:58:22+00:00"
+    },
+    {
+      "id": "5u0yQtVBft0",
+      "title": "Inside the Secret PCB Factory in Massachusetts | CircuitHub",
+      "channel": "S3",
+      "published": "2026-10-31T16:02:26+00:00"
+    },
+    {
+      "id": "Z-2pTzSZtLU",
+      "title": "This Material Sorts Itself",
+      "channel": "Steve Mould",
+      "published": "2026-10-31T12:50:48+00:00"
+    },
+    {
+      "id": "y1KipwEoRBA",
+      "title": "The Rise and Fall of the Concorde",
+      "channel": "Real Engineering",
+      "published": "2026-10-30T15:38:00+00:00"
+    },
+    {
+      "id": "0n6WoDIluv8",
+      "title": "Stopping the antibiotic apocalypse ft.@ExplosionsAndFire | We Can Have Nice Things, Actually: #2",
+      "channel": "The Thought Emporium",
+      "published": "2026-10-29T16:09:44+00:00"
+    },
+    {
+      "id": "doZ5e4YVdEs",
+      "title": "3D-printed, alcohol-powered, Einstein-Szilard absorption refrigerator",
+      "channel": "Applied Science",
+      "published": "2026-10-28T20:26:11+00:00"
+    },
+    {
+      "id": "v5d8nwgiSYI",
+      "title": "Patent Strategy in the Age of AI",
+      "channel": "Dan Gelbart",
+      "published": "2026-10-26T19:00:33+00:00"
     },
     {
       "id": "eyZEqSPeMwg",
@@ -26,10 +146,46 @@
       "published": "2026-10-23T18:46:44+00:00"
     },
     {
+      "id": "_CtsnmZFjVE",
+      "title": "A Wedge-Style Hand Vise - Part 5 (Making the Jaw Ends & Final Assembly)",
+      "channel": "Clickspring",
+      "published": "2026-10-21T18:08:31+00:00"
+    },
+    {
+      "id": "awV7FP9sAHE",
+      "title": "Whatever Happened to Fire Escapes?",
+      "channel": "Practical Engineering",
+      "published": "2026-10-20T13:00:19+00:00"
+    },
+    {
+      "id": "jorcg0Bx3Cw",
+      "title": "I Fixed a $500 Robot, Now YOU Can Control It",
+      "channel": "Excessive Overkill",
+      "published": "2026-10-20T03:51:26+00:00"
+    },
+    {
+      "id": "GbcN0bPs-Ig",
+      "title": "I made tiny robot eyes",
+      "channel": "Breaking Taps",
+      "published": "2026-10-18T14:39:50+00:00"
+    },
+    {
+      "id": "Ndftcft6XhU",
+      "title": "I Built a Drone With Only One Motor",
+      "channel": "Joshua Bird",
+      "published": "2026-10-17T13:00:33+00:00"
+    },
+    {
       "id": "LKrwhjOI8Nc",
       "title": "There's never been a better time to go into math",
       "channel": "3Blue1Brown",
       "published": "2026-10-16T16:15:20+00:00"
+    },
+    {
+      "id": "-Xchbq3PGZc",
+      "title": "A Wedge-Style Hand Vise - Part 4 (Making the Vise Jaws)",
+      "channel": "Clickspring",
+      "published": "2026-10-14T19:21:50+00:00"
     },
     {
       "id": "NiCgcUTL9_Q",
@@ -38,10 +194,100 @@
       "published": "2026-10-12T17:11:45+00:00"
     },
     {
+      "id": "2WRUX61aTy4",
+      "title": "The Startup Betting Speed Beats Stealth | Hermeus",
+      "channel": "S3",
+      "published": "2026-10-10T16:00:23+00:00"
+    },
+    {
+      "id": "ZJHWZqEYkM0",
+      "title": "A Wedge-Style Hand Vise - Part 3 (Making the Springs & Fasteners)",
+      "channel": "Clickspring",
+      "published": "2026-10-07T18:05:34+00:00"
+    },
+    {
+      "id": "5_B1Mq02wcI",
+      "title": "The Hidden Engineering of Pressure Regulators",
+      "channel": "Practical Engineering",
+      "published": "2026-10-06T13:00:17+00:00"
+    },
+    {
+      "id": "FR6z3y3d8Ag",
+      "title": "Slow-motion frogs are goofier than I expected",
+      "channel": "AlphaPhoenix",
+      "published": "2026-10-06T10:00:17+00:00"
+    },
+    {
+      "id": "yC2tx5x6vOY",
+      "title": "Making Wave Visuals the Easy Way: WaveDude 2D",
+      "channel": "Huygens Optics",
+      "published": "2026-10-05T18:54:44+00:00"
+    },
+    {
+      "id": "PXuV_YCt8g4",
+      "title": "Primitive Technology: 3 Iron Consolidation Experiments",
+      "channel": "Primitive Technology",
+      "published": "2026-10-01T21:38:23+00:00"
+    },
+    {
+      "id": "J4qFuPAVmS0",
+      "title": "How to play Swordfish",
+      "channel": "TierZoo",
+      "published": "2026-10-01T18:50:38+00:00"
+    },
+    {
+      "id": "l0qqUE1pgXU",
+      "title": "Drawing electricity from this sodium-water reactor prevents it from exploding (in theory)",
+      "channel": "Applied Science",
+      "published": "2026-09-30T23:36:13+00:00"
+    },
+    {
+      "id": "6gsZY_-kT3U",
+      "title": "This Device Turns Anything into a Suction Cup",
+      "channel": "Steve Mould",
+      "published": "2026-09-30T23:26:33+00:00"
+    },
+    {
       "id": "ONAuUyml0yI",
       "title": "We're trying something new...",
       "channel": "Veritasium",
       "published": "2026-09-30T19:19:10+00:00"
+    },
+    {
+      "id": "HmiQFYGc6C4",
+      "title": "Alarming Mistakes, Deadly Decisions: Fatal Fire at BP-Husky",
+      "channel": "USCSB",
+      "published": "2026-09-30T17:10:26+00:00"
+    },
+    {
+      "id": "wV2MycZMcX0",
+      "title": "A Wedge-Style Hand Vise - Part 2 (Making the Main Tool Body)",
+      "channel": "Clickspring",
+      "published": "2026-09-28T18:12:46+00:00"
+    },
+    {
+      "id": "KglRBG29s-4",
+      "title": "48 Hours With the People Controlling the Sky | Rainmaker",
+      "channel": "S3",
+      "published": "2026-09-27T16:00:04+00:00"
+    },
+    {
+      "id": "6B96xetwrqI",
+      "title": "The Plane That's 38% Nose",
+      "channel": "Real Engineering",
+      "published": "2026-09-26T15:08:06+00:00"
+    },
+    {
+      "id": "tBol8lPCUOM",
+      "title": "We Could Just Feed Everyone | We Can Have Nice Things, Actually: #1",
+      "channel": "The Thought Emporium",
+      "published": "2026-09-24T14:52:40+00:00"
+    },
+    {
+      "id": "_898Lx38N5Y",
+      "title": "A Wedge-Style Hand Vise - Part 1 (Making the Handle and \"Wedge\" Cone)",
+      "channel": "Clickspring",
+      "published": "2026-09-21T18:07:13+00:00"
     },
     {
       "id": "JsBZOcqZerk",
@@ -50,10 +296,130 @@
       "published": "2026-09-21T17:49:57+00:00"
     },
     {
+      "id": "q6ytRHaTEXI",
+      "title": "Designing Silicon From Scratch",
+      "channel": "Breaking Taps",
+      "published": "2026-09-20T13:00:05+00:00"
+    },
+    {
+      "id": "9-fvHJAMZf4",
+      "title": "The Couple Taking On China's Rare Earth Monopoly | Maglut",
+      "channel": "S3",
+      "published": "2026-09-19T16:00:08+00:00"
+    },
+    {
       "id": "Nbwv5wHQoj0",
       "title": "The last IMO problem AI could not solve",
       "channel": "3Blue1Brown",
       "published": "2026-09-18T17:12:53+00:00"
+    },
+    {
+      "id": "E-TF2d2WKwk",
+      "title": "Can slime molds get stoned?",
+      "channel": "The Thought Emporium",
+      "published": "2026-09-15T16:55:35+00:00"
+    },
+    {
+      "id": "n_1wzYQwnts",
+      "title": "Every US Electrical Outlet Explained",
+      "channel": "Practical Engineering",
+      "published": "2026-09-15T13:00:35+00:00"
+    },
+    {
+      "id": "XPcfqsAeaok",
+      "title": "The Startup Trying to Automate the Job No One Wants | Chef Robotics",
+      "channel": "S3",
+      "published": "2026-09-05T16:00:35+00:00"
+    },
+    {
+      "id": "99j2NpomwLk",
+      "title": "Primitive Technology: Iron Prill Welding Experiment",
+      "channel": "Primitive Technology",
+      "published": "2026-09-03T21:57:06+00:00"
+    },
+    {
+      "id": "PpwewkOCFuE",
+      "title": "Building Two N-Class Rocket Motors",
+      "channel": "BPS.space",
+      "published": "2026-09-03T18:14:01+00:00"
+    },
+    {
+      "id": "36D6CzghGfw",
+      "title": "I Learned the Downsides of Cooling Roof Paint",
+      "channel": "NightHawkInLight",
+      "published": "2026-09-02T16:47:26+00:00"
+    },
+    {
+      "id": "-17mPnFxi30",
+      "title": "Stopping the Unstoppable",
+      "channel": "Practical Engineering",
+      "published": "2026-09-01T13:00:00+00:00"
+    },
+    {
+      "id": "k3Q9UWWiPsQ",
+      "title": "The \"Perpetual Motion\" Pump That Actually Works",
+      "channel": "Steve Mould",
+      "published": "2026-08-31T22:09:08+00:00"
+    },
+    {
+      "id": "n5YpxFiJf7k",
+      "title": "How a Telescope Mirror Creates an Image",
+      "channel": "Huygens Optics",
+      "published": "2026-08-31T13:00:26+00:00"
+    },
+    {
+      "id": "IGlZ61oCcEY",
+      "title": "Why This Ugly Black Goop Is BETTER Than Ice",
+      "channel": "Tech Ingredients",
+      "published": "2026-08-29T15:14:04+00:00"
+    },
+    {
+      "id": "rCM6dvK2Hjg",
+      "title": "NASA’s Next Monster Telescope",
+      "channel": "Real Engineering",
+      "published": "2026-08-29T14:30:26+00:00"
+    },
+    {
+      "id": "PaCOHydbssM",
+      "title": "Grilling The Hacksmith about his Design Choices on The Smithblade",
+      "channel": "Know Art",
+      "published": "2026-08-29T12:17:11+00:00"
+    },
+    {
+      "id": "U5WpydzmTA8",
+      "title": "Surveillance Footage - Nippon Dynawave G Tank Failure",
+      "channel": "USCSB",
+      "published": "2026-08-28T11:45:38+00:00"
+    },
+    {
+      "id": "-UoyIV6oZEc",
+      "title": "Fatal Fog: Liquid Nitrogen Release at Foundation Food Group",
+      "channel": "USCSB",
+      "published": "2026-08-25T19:05:54+00:00"
+    },
+    {
+      "id": "iGZsPFJuxc0",
+      "title": "How We Could Reach Proxima Centauri B in 20 Years",
+      "channel": "Real Engineering",
+      "published": "2026-08-22T15:00:00+00:00"
+    },
+    {
+      "id": "NvkZaWLe0Sk",
+      "title": "This Device Goes Past Equilibrium",
+      "channel": "Steve Mould",
+      "published": "2026-08-22T00:37:35+00:00"
+    },
+    {
+      "id": "n9-5G4bS0X4",
+      "title": "How the Grumman F-14 Tomcat Works",
+      "channel": "Animagraffs",
+      "published": "2026-08-21T21:49:05+00:00"
+    },
+    {
+      "id": "r1wwtGgnzg4",
+      "title": "Are Beavers Actually Good at Dams?",
+      "channel": "Practical Engineering",
+      "published": "2026-08-18T13:00:21+00:00"
     },
     {
       "id": "J1WoNuemKOg",
@@ -62,10 +428,82 @@
       "published": "2026-08-17T14:30:16+00:00"
     },
     {
+      "id": "LCk53Se5mMY",
+      "title": "Almost No One Can Make Turbines, Except this Startup | Rangeview",
+      "channel": "S3",
+      "published": "2026-08-15T16:03:08+00:00"
+    },
+    {
+      "id": "Co57SfcT-h0",
+      "title": "Supersonic Trebuchet",
+      "channel": "Tom Stanton",
+      "published": "2026-08-07T16:00:05+00:00"
+    },
+    {
+      "id": "j4lS236jEjs",
+      "title": "Primitive Technology: Flat vs Curved Tiles, A Tough Lesson",
+      "channel": "Primitive Technology",
+      "published": "2026-08-06T21:46:20+00:00"
+    },
+    {
+      "id": "w7vHXba9RLo",
+      "title": "How I Get Industrial Robots for so Cheap",
+      "channel": "Excessive Overkill",
+      "published": "2026-08-06T03:12:17+00:00"
+    },
+    {
+      "id": "RpslsMqPFWA",
+      "title": "I made an apple peel itself",
+      "channel": "Stuff Made Here",
+      "published": "2026-08-05T22:30:42+00:00"
+    },
+    {
+      "id": "ID-K64Jk6JM",
+      "title": "Turning air into alcohol",
+      "channel": "NileRed",
+      "published": "2026-08-05T18:28:30+00:00"
+    },
+    {
+      "id": "stQfGfUSLQg",
+      "title": "The Grid That Doubles the Strength of the Ground",
+      "channel": "Practical Engineering",
+      "published": "2026-08-04T13:00:39+00:00"
+    },
+    {
+      "id": "UiPJbxryrkU",
+      "title": "Sagrada Familia - Full Documentary",
+      "channel": "Real Engineering",
+      "published": "2026-08-02T15:00:16+00:00"
+    },
+    {
       "id": "wt4p2oalmRY",
       "title": "Is spider web really stronger than steel?",
       "channel": "Veritasium",
       "published": "2026-08-02T13:21:11+00:00"
+    },
+    {
+      "id": "gD9mmdVZkcE",
+      "title": "Sharpest Nosecone Ever?",
+      "channel": "BPS.space",
+      "published": "2026-08-02T03:52:32+00:00"
+    },
+    {
+      "id": "WspMKBFd3Zg",
+      "title": "The Austin Startup Rebuilding the American Dream | The American Housing Corporation",
+      "channel": "S3",
+      "published": "2026-08-01T16:00:29+00:00"
+    },
+    {
+      "id": "ti2qiU_JTUQ",
+      "title": "The Euler Disc Is The Wrong Shape",
+      "channel": "Steve Mould",
+      "published": "2026-08-01T15:57:07+00:00"
+    },
+    {
+      "id": "OX1yHmeLPy8",
+      "title": "The Kurzgesagt Situation is Insane",
+      "channel": "Real Engineering",
+      "published": "2026-08-01T02:02:04+00:00"
     },
     {
       "id": "tL9Lw250spc",
@@ -74,10 +512,52 @@
       "published": "2026-07-25T17:29:09+00:00"
     },
     {
+      "id": "vvwrEsysMnc",
+      "title": "Are Stingrays Overpowered?",
+      "channel": "TierZoo",
+      "published": "2026-07-21T17:13:02+00:00"
+    },
+    {
+      "id": "Iclf_JnPkKw",
+      "title": "What's Under Your Feet in New York City?",
+      "channel": "Practical Engineering",
+      "published": "2026-07-21T13:02:12+00:00"
+    },
+    {
+      "id": "XsmGHMic8vs",
+      "title": "A Guilloche Dial In Sterling Silver - Cutting Traditional Guilloché On The Straight-Line Engine #3",
+      "channel": "Clickspring",
+      "published": "2026-07-18T18:26:04+00:00"
+    },
+    {
+      "id": "cI1XawnfEJE",
+      "title": "The Brothers Betting Their Robots Can Solve America's Welding Crisis | Path Robotics",
+      "channel": "S3",
+      "published": "2026-07-18T16:00:36+00:00"
+    },
+    {
       "id": "GlYgs6v2YfU",
       "title": "But what is cross-entropy? | Information theory, part 2",
       "channel": "3Blue1Brown",
       "published": "2026-07-16T11:56:04+00:00"
+    },
+    {
+      "id": "NwhVJ7cv9B4",
+      "title": "See inside insects with an electron microscope and a femtosecond laser",
+      "channel": "Applied Science",
+      "published": "2026-07-16T02:46:19+00:00"
+    },
+    {
+      "id": "1sgsb-F8dCw",
+      "title": "Building a CT Scanner to prove a Furby has no soul",
+      "channel": "The Thought Emporium",
+      "published": "2026-07-16T01:28:25+00:00"
+    },
+    {
+      "id": "LOdoO-Fp6oY",
+      "title": "Sound so loud you can SEE it",
+      "channel": "AlphaPhoenix",
+      "published": "2026-07-15T10:00:10+00:00"
     },
     {
       "id": "GK2pZ_oVU1o",
@@ -86,10 +566,82 @@
       "published": "2026-07-14T18:03:28+00:00"
     },
     {
+      "id": "58LGFLT4lYg",
+      "title": "Primitive Technology: Firing Tiles and Building the Roof on the Mud Mortar/Fired Brick Hut",
+      "channel": "Primitive Technology",
+      "published": "2026-07-09T21:54:59+00:00"
+    },
+    {
+      "id": "1EyN9_QO4_A",
+      "title": "The Arm Spin That Stops a Fall",
+      "channel": "Steve Mould",
+      "published": "2026-07-09T14:46:20+00:00"
+    },
+    {
+      "id": "G1Syjh319VU",
+      "title": "We turned a household freezer into a high-speed blast chiller!",
+      "channel": "Tech Ingredients",
+      "published": "2026-07-09T14:30:01+00:00"
+    },
+    {
+      "id": "Ku_ockR2t44",
+      "title": "The Mind-Blowing Flaw That Flooded New Orleans",
+      "channel": "Practical Engineering",
+      "published": "2026-07-07T13:00:05+00:00"
+    },
+    {
+      "id": "hQMCz1pG2Ns",
+      "title": "This Worked SO MUCH Better Than Expected",
+      "channel": "Know Art",
+      "published": "2026-07-07T10:26:06+00:00"
+    },
+    {
+      "id": "ajfrOBs_mNk",
+      "title": "I Built a Clay 3D Printer that Prints Impossible Objects",
+      "channel": "Joshua Bird",
+      "published": "2026-07-05T14:00:01+00:00"
+    },
+    {
+      "id": "qNBEqnFt1aU",
+      "title": "No Nuclear Startup Has Ever Done This, Until Now | Valar Atomics",
+      "channel": "S3",
+      "published": "2026-07-04T16:00:37+00:00"
+    },
+    {
+      "id": "DyIQkqBXhS0",
+      "title": "Atomic Force Microscope high-speed video, selective stainless steel etching, bacteria, and more",
+      "channel": "Applied Science",
+      "published": "2026-07-02T16:26:57+00:00"
+    },
+    {
+      "id": "2BL-QLDBKXQ",
+      "title": "I’m building something I probably shouldn’t... Mobile Robot part 1",
+      "channel": "Excessive Overkill",
+      "published": "2026-07-01T01:27:52+00:00"
+    },
+    {
+      "id": "_qpdUNMt2yg",
+      "title": "Reading StarCloud’s Whitepaper So You Don’t Have To",
+      "channel": "Real Engineering",
+      "published": "2026-06-27T16:00:16+00:00"
+    },
+    {
+      "id": "EP1mYq8hLIY",
+      "title": "The Anti Trampoline Effect",
+      "channel": "Steve Mould",
+      "published": "2026-06-25T15:30:19+00:00"
+    },
+    {
       "id": "mvcesPWvUIc",
       "title": "We've Been Using The Wrong Science In Court For 50 years",
       "channel": "Veritasium",
       "published": "2026-06-22T14:40:50+00:00"
+    },
+    {
+      "id": "7oi4yMr8Rjk",
+      "title": "Bridge Demolition is Complicated",
+      "channel": "Practical Engineering",
+      "published": "2026-06-16T11:37:54+00:00"
     },
     {
       "id": "8HBDE-msUjw",
@@ -98,10 +650,34 @@
       "published": "2026-06-14T15:18:45+00:00"
     },
     {
+      "id": "BnI8x9Eum7U",
+      "title": "The Drone That Delivers to Your Backyard in Minutes | Zipline",
+      "channel": "S3",
+      "published": "2026-06-13T16:00:28+00:00"
+    },
+    {
+      "id": "LTu6xpoPvzg",
+      "title": "Primitive Technology: Building Walls with Fired Bricks and Mud Mortar",
+      "channel": "Primitive Technology",
+      "published": "2026-06-12T14:00:25+00:00"
+    },
+    {
+      "id": "PRWwXeRIvoI",
+      "title": "How Nuclear Power Works",
+      "channel": "Animagraffs",
+      "published": "2026-06-09T22:24:55+00:00"
+    },
+    {
       "id": "l6DKRf-fAAM",
       "title": "Reinventing Entropy | Information theory, part 1",
       "channel": "3Blue1Brown",
       "published": "2026-06-07T11:49:51+00:00"
+    },
+    {
+      "id": "ZewlcJsfbn8",
+      "title": "The Dark Side of the World’s Lightest Structural Metal",
+      "channel": "Real Engineering",
+      "published": "2026-06-06T15:00:07+00:00"
     },
     {
       "id": "tz23G_UXCGA",
@@ -110,10 +686,76 @@
       "published": "2026-06-05T07:09:17+00:00"
     },
     {
+      "id": "eq7fR9ISuCw",
+      "title": "Electricity Does Not \"Split\" H₂O. And That's VERY Useful.",
+      "channel": "NightHawkInLight",
+      "published": "2026-06-03T14:58:59+00:00"
+    },
+    {
+      "id": "3YvwqMDDb3k",
+      "title": "Why Roads Get Washboards",
+      "channel": "Practical Engineering",
+      "published": "2026-06-02T13:00:23+00:00"
+    },
+    {
+      "id": "IFqI11SIGXo",
+      "title": "Steel Absorbs Gas Like a Sponge",
+      "channel": "Steve Mould",
+      "published": "2026-05-31T19:56:12+00:00"
+    },
+    {
+      "id": "B4RQvgdC1TI",
+      "title": "This Startup is Solving Floods | Terranova",
+      "channel": "S3",
+      "published": "2026-05-30T16:00:11+00:00"
+    },
+    {
       "id": "kS-CGkiPetQ",
       "title": "Google Maps is unreasonably fast. Let me explain",
       "channel": "Veritasium",
       "published": "2026-05-30T14:46:43+00:00"
+    },
+    {
+      "id": "TYhBBcdjgMI",
+      "title": "How to build a pyramid if Aliens won't return your calls",
+      "channel": "The Thought Emporium",
+      "published": "2026-05-28T16:19:06+00:00"
+    },
+    {
+      "id": "DWLcmq_DiaA",
+      "title": "Fixing the Most Dangerous Dam in the World",
+      "channel": "Practical Engineering",
+      "published": "2026-05-19T13:00:31+00:00"
+    },
+    {
+      "id": "bp2IAlU53uw",
+      "title": "Why Centrifugal Fans SPEED UP When Blocked (Regular Fans Slow Down)",
+      "channel": "Know Art",
+      "published": "2026-05-15T14:45:04+00:00"
+    },
+    {
+      "id": "7UXmUJZIH7c",
+      "title": "The Mammal Tier List",
+      "channel": "TierZoo",
+      "published": "2026-05-09T18:37:24+00:00"
+    },
+    {
+      "id": "08fWN8IktCc",
+      "title": "The Founder Challenging Modern Aviation | Astro Mechanica",
+      "channel": "S3",
+      "published": "2026-05-09T16:00:02+00:00"
+    },
+    {
+      "id": "jovm4R-HTaM",
+      "title": "Primitive Technology: Mud mortar experiment and firing roof tiles",
+      "channel": "Primitive Technology",
+      "published": "2026-05-08T00:00:33+00:00"
+    },
+    {
+      "id": "fKuIJ_z2Y6A",
+      "title": "The Physics Behind the Thumb Trick",
+      "channel": "Practical Engineering",
+      "published": "2026-05-05T13:01:16+00:00"
     },
     {
       "id": "SVTPv4sI_Jc",
@@ -122,10 +764,184 @@
       "published": "2026-05-03T19:26:56+00:00"
     },
     {
+      "id": "FtSJpgLlbts",
+      "title": "We Turned Sugar into a Light Source!",
+      "channel": "Tech Ingredients",
+      "published": "2026-05-02T16:00:06+00:00"
+    },
+    {
+      "id": "-DyrBDsKA5s",
+      "title": "You've Never Seen a Real Photo",
+      "channel": "Steve Mould",
+      "published": "2026-04-30T22:00:33+00:00"
+    },
+    {
+      "id": "OCyXKRYcJ0Q",
+      "title": "I Built a Gyroscope Stabilized Rocket Camera with GPS",
+      "channel": "BPS.space",
+      "published": "2026-04-30T01:21:18+00:00"
+    },
+    {
+      "id": "VsOQAayneUo",
+      "title": "Unusual shop tips Part 2",
+      "channel": "Dan Gelbart",
+      "published": "2026-04-28T20:24:50+00:00"
+    },
+    {
+      "id": "oLA_vbpxblY",
+      "title": "The SpaceX of the Ocean | Ulysses",
+      "channel": "S3",
+      "published": "2026-04-25T16:01:18+00:00"
+    },
+    {
+      "id": "FYMdllTCrc0",
+      "title": "The Insane Engineering of the V-22 Osprey",
+      "channel": "Real Engineering",
+      "published": "2026-04-25T15:00:32+00:00"
+    },
+    {
+      "id": "fAgdpfB8qbM",
+      "title": "How To Pump Stones (and cameras)",
+      "channel": "Know Art",
+      "published": "2026-04-22T14:59:29+00:00"
+    },
+    {
+      "id": "BViIGAg-eVI",
+      "title": "A New Type of Levitation",
+      "channel": "Steve Mould",
+      "published": "2026-04-20T20:18:27+00:00"
+    },
+    {
+      "id": "xXAQZLS5Epw",
+      "title": "A Camera That Freezes Rotation || Stroboscopic Video",
+      "channel": "Excessive Overkill",
+      "published": "2026-04-20T02:49:08+00:00"
+    },
+    {
+      "id": "872JcpP3FEM",
+      "title": "The City.",
+      "channel": "Historia Civilis",
+      "published": "2026-04-18T17:00:16+00:00"
+    },
+    {
+      "id": "-qUu8kIliy8",
+      "title": "Making the most pickproof lock yet",
+      "channel": "Works By Design",
+      "published": "2026-04-16T18:02:36+00:00"
+    },
+    {
+      "id": "2OfjZ3ORJfc",
+      "title": "Robot golf vs holes that keep getting harder",
+      "channel": "Stuff Made Here",
+      "published": "2026-04-15T20:01:57+00:00"
+    },
+    {
+      "id": "-4X6KYlQ7YQ",
+      "title": "Super Capacitor Wind-Up Plane",
+      "channel": "Tom Stanton",
+      "published": "2026-04-15T16:00:07+00:00"
+    },
+    {
+      "id": "8rfp2I8ZVZs",
+      "title": "Molten Salts and Plasma Turn Cheap Iron Into Strong Steel",
+      "channel": "The Thought Emporium",
+      "published": "2026-04-14T14:31:44+00:00"
+    },
+    {
+      "id": "M1si1y5lvkk",
+      "title": "No one can force me to have a secure website!!!",
+      "channel": "suckerpinch",
+      "published": "2026-04-13T23:10:04+00:00"
+    },
+    {
+      "id": "L-iwzJOG8fA",
+      "title": "Primitive Technology: Roof tiles dried by underfloor heating",
+      "channel": "Primitive Technology",
+      "published": "2026-04-09T21:49:02+00:00"
+    },
+    {
+      "id": "G61T-5d9jiA",
+      "title": "Designing a Selfie Camera to Eject at Apogee",
+      "channel": "BPS.space",
+      "published": "2026-04-07T19:41:14+00:00"
+    },
+    {
+      "id": "IOHZ0bbkPg0",
+      "title": "THE GREATEST LIE (2026) | OFFICIAL SHORT FILM",
+      "channel": "S3",
+      "published": "2026-04-07T02:52:33+00:00"
+    },
+    {
+      "id": "lJ4qE95lAXs",
+      "title": "Tools, Glorious Tools! #12 - Ceramic Shell Investment Casting",
+      "channel": "Clickspring",
+      "published": "2026-04-02T18:21:53+00:00"
+    },
+    {
+      "id": "kq4bKV2Fbss",
+      "title": "What Makes Dust Explosions So Insanely Dangerous",
+      "channel": "Know Art",
+      "published": "2026-03-31T18:00:14+00:00"
+    },
+    {
+      "id": "tBN2o4rAt5A",
+      "title": "How a Trans-Atlantic Steam Ship Worked",
+      "channel": "Animagraffs",
+      "published": "2026-03-25T01:15:14+00:00"
+    },
+    {
       "id": "ldxFjLJ3rVY",
       "title": "How (and why) to take a logarithm of an image",
       "channel": "3Blue1Brown",
       "published": "2026-03-22T12:59:00+00:00"
+    },
+    {
+      "id": "wKP6tYA6ds4",
+      "title": "How NASA Discovered a Military Base under Greenland",
+      "channel": "Real Engineering",
+      "published": "2026-03-21T15:01:37+00:00"
+    },
+    {
+      "id": "Qo0kKk8loGQ",
+      "title": "How to build your dragon (training sold separately)",
+      "channel": "The Thought Emporium",
+      "published": "2026-03-19T15:33:08+00:00"
+    },
+    {
+      "id": "UkQfhwrlfJ4",
+      "title": "Primitive Technology: Hut with Underfloor Heating (Ondol/Hypocaust)",
+      "channel": "Primitive Technology",
+      "published": "2026-03-12T21:35:17+00:00"
+    },
+    {
+      "id": "y_SEZJPieWc",
+      "title": "Channel Update: Custom Silicon and Cubesats",
+      "channel": "Breaking Taps",
+      "published": "2026-03-09T00:12:35+00:00"
+    },
+    {
+      "id": "d3nuepnbmC4",
+      "title": "FPGAs Aren’t Processors (Unless You Want Them to Be) || FPGA Deep Dive and Use",
+      "channel": "Excessive Overkill",
+      "published": "2026-03-07T04:41:00+00:00"
+    },
+    {
+      "id": "-eRT3yOvQkU",
+      "title": "We Build and Test Microwave Blocking Panels - Invisible to Radar",
+      "channel": "Tech Ingredients",
+      "published": "2026-03-01T16:01:08+00:00"
+    },
+    {
+      "id": "B_JavY7pSfE",
+      "title": "Surely it Breaks The 2nd Law",
+      "channel": "Steve Mould",
+      "published": "2026-02-28T19:57:19+00:00"
+    },
+    {
+      "id": "-WLlLpPZI30",
+      "title": "The Bizarre World of Aluminum Die Casting",
+      "channel": "Know Art",
+      "published": "2026-02-28T18:08:32+00:00"
     },
     {
       "id": "fsLh-NYhOoU",
@@ -134,10 +950,238 @@
       "published": "2026-02-27T15:14:23+00:00"
     },
     {
+      "id": "n7Q1vubN4w8",
+      "title": "Why America’s Tank Failed in Ukraine",
+      "channel": "Real Engineering",
+      "published": "2026-02-21T16:01:08+00:00"
+    },
+    {
+      "id": "LeUZmojH7p8",
+      "title": "The Tech Tree of Milk Is Insane",
+      "channel": "Know Art",
+      "published": "2026-02-18T16:55:15+00:00"
+    },
+    {
+      "id": "0rGaTwxWuz0",
+      "title": "I DROPPED my slomo camera to explain how gravity works",
+      "channel": "AlphaPhoenix",
+      "published": "2026-02-09T11:00:03+00:00"
+    },
+    {
+      "id": "xrAGA8u9b2E",
+      "title": "Doing Compton Scattering & Photon Coincidence Experiments with the Radiacode 110",
+      "channel": "Huygens Optics",
+      "published": "2026-02-08T09:57:24+00:00"
+    },
+    {
+      "id": "XZz-UU4pK3s",
+      "title": "Primitive Technology: Portable pulley blower",
+      "channel": "Primitive Technology",
+      "published": "2026-02-05T21:45:33+00:00"
+    },
+    {
+      "id": "9h3bar6eIss",
+      "title": "Deadly Dust: Explosions at Didion Milling",
+      "channel": "USCSB",
+      "published": "2026-02-04T20:58:24+00:00"
+    },
+    {
+      "id": "RaQfGqsB30o",
+      "title": "Can You Turn a Rainbow Back into White Light?",
+      "channel": "Steve Mould",
+      "published": "2026-01-31T18:10:23+00:00"
+    },
+    {
       "id": "BHdbsHFs2P0",
       "title": "Why you can't comb a hairy ball, and why we care",
       "channel": "3Blue1Brown",
       "published": "2026-01-31T14:57:42+00:00"
+    },
+    {
+      "id": "8JBGcCF2Zzs",
+      "title": "The Brilliant Engineering Of Clicky Mechanisms",
+      "channel": "Know Art",
+      "published": "2026-01-31T12:06:49+00:00"
+    },
+    {
+      "id": "uqmT1GzRXWI",
+      "title": "Building a Mechanical Battery",
+      "channel": "Tom Stanton",
+      "published": "2026-01-29T17:59:59+00:00"
+    },
+    {
+      "id": "RWbCC6f_k1c",
+      "title": "The Liquid Hammer Toy You Can't Buy",
+      "channel": "Steve Mould",
+      "published": "2026-01-23T20:08:55+00:00"
+    },
+    {
+      "id": "aQR_CnLJczA",
+      "title": "Building a Giant Centrifuge From Scratch",
+      "channel": "Tech Ingredients",
+      "published": "2026-01-18T15:34:52+00:00"
+    },
+    {
+      "id": "0zM5jiZJ5p0",
+      "title": "Turning Vodka Into Toilet Paper (Reverse Nilered)",
+      "channel": "The Thought Emporium",
+      "published": "2026-01-15T16:23:25+00:00"
+    },
+    {
+      "id": "q6Y3cKMPtyU",
+      "title": "Primitive Technology: Convection turbine experiments (hot air windmill)",
+      "channel": "Primitive Technology",
+      "published": "2026-01-06T21:36:07+00:00"
+    },
+    {
+      "id": "JQB8aNKyeao",
+      "title": "Making an autocorrect mini golf club (part 1)",
+      "channel": "Stuff Made Here",
+      "published": "2026-01-01T04:51:16+00:00"
+    },
+    {
+      "id": "dPYVDz5SSlw",
+      "title": "Hammer Drills Don't Hammer - Every Drill Explained",
+      "channel": "Know Art",
+      "published": "2025-12-27T12:03:37+00:00"
+    },
+    {
+      "id": "4pG8_bWpmaE",
+      "title": "Mathematically extra-complicated Secretest Santa 2025",
+      "channel": "suckerpinch",
+      "published": "2025-12-24T23:30:52+00:00"
+    },
+    {
+      "id": "UtwQ9APzYWA",
+      "title": "Recreating ICE Spy Tech Was WAY Too Easy",
+      "channel": "The Thought Emporium",
+      "published": "2025-12-23T19:00:55+00:00"
+    },
+    {
+      "id": "SMJMYyszflM",
+      "title": "How We Built the ISS - Part 2",
+      "channel": "Real Engineering",
+      "published": "2025-12-20T17:14:18+00:00"
+    },
+    {
+      "id": "kuMUquaeE6g",
+      "title": "Amplifying Invisible Motion",
+      "channel": "Steve Mould",
+      "published": "2025-12-18T23:51:27+00:00"
+    },
+    {
+      "id": "z4_GxPHwqkA",
+      "title": "Perfect Aircrete, Kitchen Ingredients.",
+      "channel": "NightHawkInLight",
+      "published": "2025-12-18T17:07:45+00:00"
+    },
+    {
+      "id": "JXr4-GoCWsw",
+      "title": "One Bad Line of Code at Mach 1.8",
+      "channel": "BPS.space",
+      "published": "2025-12-18T06:18:49+00:00"
+    },
+    {
+      "id": "w8JuHaRQmUs",
+      "title": "The simple memory trick that let me ace exams",
+      "channel": "The Thought Emporium",
+      "published": "2025-12-15T22:02:48+00:00"
+    },
+    {
+      "id": "LWu0fyz-uLc",
+      "title": "The SF-LA Bullet Train California Never Got",
+      "channel": "S3",
+      "published": "2025-12-13T17:00:38+00:00"
+    },
+    {
+      "id": "xtnfcm-fxm4",
+      "title": "The Reptile Tier List",
+      "channel": "TierZoo",
+      "published": "2025-12-13T16:16:39+00:00"
+    },
+    {
+      "id": "M1TwKidb298",
+      "title": "Why There Are No Shadows In Professional Sports",
+      "channel": "Know Art",
+      "published": "2025-12-12T12:11:35+00:00"
+    },
+    {
+      "id": "35FkCArjLU0",
+      "title": "Low Pressure, Fatal Consequence: Explosion at Yenkin-Majestic",
+      "channel": "USCSB",
+      "published": "2025-12-09T17:33:22+00:00"
+    },
+    {
+      "id": "j0ZZfIz9R1I",
+      "title": "How We Built The ISS",
+      "channel": "Real Engineering",
+      "published": "2025-12-06T15:00:50+00:00"
+    },
+    {
+      "id": "D0PjLvlBsWw",
+      "title": "Making giant insects to spite evolution",
+      "channel": "The Thought Emporium",
+      "published": "2025-12-06T00:37:04+00:00"
+    },
+    {
+      "id": "eIBEK-_NMJc",
+      "title": "Primitive Technology: Grate furnace, wood fired smelting experiment",
+      "channel": "Primitive Technology",
+      "published": "2025-12-04T21:22:17+00:00"
+    },
+    {
+      "id": "Vf_pS0XSTyo",
+      "title": "Solar Farms in Space - Reflect Orbital",
+      "channel": "Real Engineering",
+      "published": "2025-12-03T14:00:37+00:00"
+    },
+    {
+      "id": "vUzKgjeljuI",
+      "title": "Turning $3 Wine into a $100 Vintage with Science!",
+      "channel": "Tech Ingredients",
+      "published": "2025-11-23T20:18:59+00:00"
+    },
+    {
+      "id": "p0dU_ID6SJA",
+      "title": "We've got an important notification you're going to want to watch",
+      "channel": "Tech Ingredients",
+      "published": "2025-11-22T15:35:30+00:00"
+    },
+    {
+      "id": "lAeJvZfVLbE",
+      "title": "Acoustic Radiometer spins in 130dB sound, clockwise and counter-clockwise depending on sound pattern",
+      "channel": "Applied Science",
+      "published": "2025-11-17T03:02:30+00:00"
+    },
+    {
+      "id": "BTeb7AJyeRU",
+      "title": "The Worm Tier List",
+      "channel": "TierZoo",
+      "published": "2025-11-15T17:00:16+00:00"
+    },
+    {
+      "id": "hYyrgDEJLOA",
+      "title": "Williamson & Van der Mark electron model  |  Are electrons made of light?",
+      "channel": "Huygens Optics",
+      "published": "2025-11-15T12:28:12+00:00"
+    },
+    {
+      "id": "YA1ME6kN2gI",
+      "title": "I Broke 100 Epoxy Bonds to Find the Strongest",
+      "channel": "BPS.space",
+      "published": "2025-11-14T23:38:37+00:00"
+    },
+    {
+      "id": "UqJHfTkvVY4",
+      "title": "Primitive Technology: Wood ash & crushed terracotta mortar",
+      "channel": "Primitive Technology",
+      "published": "2025-11-06T21:13:21+00:00"
+    },
+    {
+      "id": "gcu0PnPVqgs",
+      "title": "Why Crosscut Saws Can't Rip",
+      "channel": "Know Art",
+      "published": "2025-11-06T16:33:07+00:00"
     },
     {
       "id": "FE-hM1kRK4Y",
@@ -146,10 +1190,70 @@
       "published": "2025-11-05T13:09:45+00:00"
     },
     {
+      "id": "0WNUwtD3zmY",
+      "title": "The Antikythera Mechanism Episode 12, Part 3 - Completing The Lunar Phase Assembly",
+      "channel": "Clickspring",
+      "published": "2025-11-01T16:00:20+00:00"
+    },
+    {
+      "id": "HW-aygjNU1Q",
+      "title": "How hard is making a clone, really?",
+      "channel": "The Thought Emporium",
+      "published": "2025-10-24T16:00:38+00:00"
+    },
+    {
+      "id": "GmwaJnj6pfY",
+      "title": "Making liquid nitrogen from scratch (an absurd amount)",
+      "channel": "NileRed",
+      "published": "2025-10-23T23:11:47+00:00"
+    },
+    {
+      "id": "rlz_CHukJjk",
+      "title": "A Cucumber Was the Best Laser Shield! Now We Try Gel Walls...",
+      "channel": "Tech Ingredients",
+      "published": "2025-10-18T14:44:19+00:00"
+    },
+    {
+      "id": "J87Qyxzm_fQ",
+      "title": "DIY Potato Aerogel: Free Cooling from Your Kitchen?",
+      "channel": "NightHawkInLight",
+      "published": "2025-10-17T16:55:10+00:00"
+    },
+    {
+      "id": "o4TdHrMi6do",
+      "title": "A laser pointer at 2 billion fps makes the speed of light look... kinda weird",
+      "channel": "AlphaPhoenix",
+      "published": "2025-10-17T10:01:33+00:00"
+    },
+    {
+      "id": "cFE_NO7hu0E",
+      "title": "Optimising a Stirling Engine Bike",
+      "channel": "Tom Stanton",
+      "published": "2025-10-16T17:01:56+00:00"
+    },
+    {
+      "id": "Y3h0vZ2PYl8",
+      "title": "Tiny bird leg kicks my butt",
+      "channel": "Breaking Taps",
+      "published": "2025-10-14T14:39:07+00:00"
+    },
+    {
+      "id": "RsGHr7dXLuI",
+      "title": "Optical diffraction patterns and almost-holograms made with a MOPA laser engraving machine",
+      "channel": "Applied Science",
+      "published": "2025-10-14T05:25:59+00:00"
+    },
+    {
       "id": "j0wJBEZdwLs",
       "title": "But what is a Laplace Transform?",
       "channel": "3Blue1Brown",
       "published": "2025-10-12T11:19:53+00:00"
+    },
+    {
+      "id": "5lISr1OjhjQ",
+      "title": "Building pawns that transform into every piece",
+      "channel": "Works By Design",
+      "published": "2025-10-12T02:52:56+00:00"
     },
     {
       "id": "-j8PzkZ70Lg",
@@ -158,10 +1262,76 @@
       "published": "2025-10-05T13:53:28+00:00"
     },
     {
+      "id": "TPyQI7bJo6Q",
+      "title": "Making a Deformable Mirror",
+      "channel": "Huygens Optics",
+      "published": "2025-10-04T20:35:51+00:00"
+    },
+    {
+      "id": "y8o7qkmiDso",
+      "title": "Primitive Technology: Double water bellows",
+      "channel": "Primitive Technology",
+      "published": "2025-10-02T21:19:36+00:00"
+    },
+    {
+      "id": "FiyrzMmA1zk",
+      "title": "How I recreated the Golden Gate Bridge (historical research + 3D modeling)",
+      "channel": "Animagraffs",
+      "published": "2025-10-01T23:14:15+00:00"
+    },
+    {
+      "id": "IQWWa9hedOo",
+      "title": "The Flaw In My Biggest Rocket Motor - Super 8",
+      "channel": "BPS.space",
+      "published": "2025-09-30T23:07:32+00:00"
+    },
+    {
+      "id": "BkbVeA4Lejc",
+      "title": "You helped but we CAN'T STOP THIS LASER!",
+      "channel": "Tech Ingredients",
+      "published": "2025-09-27T14:53:35+00:00"
+    },
+    {
+      "id": "lQZWPDaVavk",
+      "title": "Why Staples Are Sometimes Bent Outwards And Much More",
+      "channel": "Know Art",
+      "published": "2025-09-26T15:28:39+00:00"
+    },
+    {
+      "id": "IBtIB9mVzEI",
+      "title": "I Bought a $40k Robot for $200, Then Let Random People Control It",
+      "channel": "Excessive Overkill",
+      "published": "2025-09-25T06:44:07+00:00"
+    },
+    {
+      "id": "RjbJwnUd3Pw",
+      "title": "How the Golden Gate Bridge Works",
+      "channel": "Animagraffs",
+      "published": "2025-09-19T04:54:05+00:00"
+    },
+    {
       "id": "M-MgQC6z3VU",
       "title": "What was Euclid really doing? | Guest video by Ben Syversen",
       "channel": "3Blue1Brown",
       "published": "2025-09-18T14:13:05+00:00"
+    },
+    {
+      "id": "QH4MviUE0_s",
+      "title": "Rupert's Snub Cube and other Math Holes",
+      "channel": "suckerpinch",
+      "published": "2025-09-16T12:36:06+00:00"
+    },
+    {
+      "id": "p8IBUiO8EPA",
+      "title": "Spray This On Your Pizza... Trust Us!",
+      "channel": "Tech Ingredients",
+      "published": "2025-09-13T14:54:57+00:00"
+    },
+    {
+      "id": "ReYsPKwVy64",
+      "title": "Terminal Failure: Fire at ITC",
+      "channel": "USCSB",
+      "published": "2025-09-10T17:12:29+00:00"
     },
     {
       "id": "_BrFKp-U8GI",
@@ -170,16 +1340,1564 @@
       "published": "2025-09-07T12:25:03+00:00"
     },
     {
+      "id": "ujofKWmGChw",
+      "title": "High Performance Motor Control From the Ground Up || Field Oriented Control (FOC)",
+      "channel": "Excessive Overkill",
+      "published": "2025-09-05T05:45:58+00:00"
+    },
+    {
+      "id": "XD4jvdjAMA8",
+      "title": "Primitive Technology: 2.5 m Natural draft furnace experiment",
+      "channel": "Primitive Technology",
+      "published": "2025-09-04T22:15:26+00:00"
+    },
+    {
+      "id": "xSCl_FBbq_E",
+      "title": "Could we resurrect a steak?",
+      "channel": "The Thought Emporium",
+      "published": "2025-09-04T16:46:21+00:00"
+    },
+    {
+      "id": "vJ43DjwLPGA",
+      "title": "Why is this task so difficult for machines?",
+      "channel": "Stuff Made Here",
+      "published": "2025-08-30T17:27:50+00:00"
+    },
+    {
+      "id": "h6E4_Bcmscg",
+      "title": "Reform or Revolution? (1830 to 1832)",
+      "channel": "Historia Civilis",
+      "published": "2025-08-30T16:01:09+00:00"
+    },
+    {
+      "id": "ivz5_1Og5II",
+      "title": "This Spin-Casting Machine Wants to Kill Me",
+      "channel": "BPS.space",
+      "published": "2025-08-29T21:42:54+00:00"
+    },
+    {
       "id": "itRV2jEtV8Q",
       "title": "Simulating and understanding phase change | Guest video by Vilas Winstein",
       "channel": "3Blue1Brown",
       "published": "2025-08-28T14:00:47+00:00"
     },
     {
+      "id": "s-41UF02vrU",
+      "title": "Turning a $150 AC Into a Super-Efficient Geothermal Unit!",
+      "channel": "Tech Ingredients",
+      "published": "2025-08-23T15:01:46+00:00"
+    },
+    {
       "id": "4NlrfOl0l8U",
       "title": "The AI that solved IMO Geometry Problems | Guest video by @Aleph0",
       "channel": "3Blue1Brown",
       "published": "2025-08-17T13:02:50+00:00"
+    },
+    {
+      "id": "qOJdxg97bl4",
+      "title": "Are Spiders Overpowered?",
+      "channel": "TierZoo",
+      "published": "2025-08-13T19:57:45+00:00"
+    },
+    {
+      "id": "XNd-X2pt7BM",
+      "title": "The $2000 Nozzle Mistake",
+      "channel": "BPS.space",
+      "published": "2025-08-12T15:24:41+00:00"
+    },
+    {
+      "id": "7Sc1rjGMblM",
+      "title": "Waterproof Fabric with Soap. Forgotten knowledge that was once used as a scam",
+      "channel": "NightHawkInLight",
+      "published": "2025-08-12T15:22:10+00:00"
+    },
+    {
+      "id": "xwmxmUNA7Pw",
+      "title": "The Antikythera Mechanism Episode 12, Part 2 - Making The Lunar Phase Display \"Pipe\" and \"Cheeks\"",
+      "channel": "Clickspring",
+      "published": "2025-08-07T20:30:06+00:00"
+    },
+    {
+      "id": "ebgrsldLIvI",
+      "title": "Primitive Technology: Grass mat loom",
+      "channel": "Primitive Technology",
+      "published": "2025-07-31T22:10:35+00:00"
+    },
+    {
+      "id": "0wMQ-0exd0Y",
+      "title": "How Whips REALLY Work - Supersonic Sling Project",
+      "channel": "Know Art",
+      "published": "2025-07-31T21:00:05+00:00"
+    },
+    {
+      "id": "OpRq5hYa9KM",
+      "title": "We're making some changes...",
+      "channel": "Tech Ingredients",
+      "published": "2025-07-23T14:40:48+00:00"
+    },
+    {
+      "id": "EuVgGrun1V0",
+      "title": "X-ray backscatter with compressed sensing algorithm",
+      "channel": "Applied Science",
+      "published": "2025-07-18T22:59:49+00:00"
+    },
+    {
+      "id": "PXNxnI0s_OY",
+      "title": "Spaceshot Rocket Motor Recap",
+      "channel": "BPS.space",
+      "published": "2025-07-16T18:29:49+00:00"
+    },
+    {
+      "id": "zB3lrLjqIh4",
+      "title": "Building a Stirling Engine Bike - Part 1",
+      "channel": "Tom Stanton",
+      "published": "2025-07-16T17:00:02+00:00"
+    },
+    {
+      "id": "v7hmzvGE9dA",
+      "title": "We made electricity from water - and it's easy!",
+      "channel": "Tech Ingredients",
+      "published": "2025-07-13T15:00:11+00:00"
+    },
+    {
+      "id": "8zlAI32MSsQ",
+      "title": "DIY Solar Concentrators, Made Better.",
+      "channel": "NightHawkInLight",
+      "published": "2025-07-10T16:52:36+00:00"
+    },
+    {
+      "id": "r0RZR8F84Gk",
+      "title": "This Fan Uses Almost NO Power",
+      "channel": "Tech Ingredients",
+      "published": "2025-06-24T15:01:25+00:00"
+    },
+    {
+      "id": "2z7h5BOZ2Hk",
+      "title": "Safety Pays Off: The Value of Vigilance",
+      "channel": "USCSB",
+      "published": "2025-06-23T16:46:27+00:00"
+    },
+    {
+      "id": "r6fRT0FHgcc",
+      "title": "From Cooktop to Optical Part",
+      "channel": "Huygens Optics",
+      "published": "2025-06-23T12:16:18+00:00"
+    },
+    {
+      "id": "hnvtstq3ztI",
+      "title": "I weighed an airplane... while it was flying!",
+      "channel": "AlphaPhoenix",
+      "published": "2025-06-17T10:01:13+00:00"
+    },
+    {
+      "id": "45JhacvmXV8",
+      "title": "Learn to Build With Cardboard! STRONG, Waterproof and Free.",
+      "channel": "NightHawkInLight",
+      "published": "2025-06-13T19:38:33+00:00"
+    },
+    {
+      "id": "nC9dU_oXANo",
+      "title": "The Mollusk Tier List",
+      "channel": "TierZoo",
+      "published": "2025-06-07T15:59:53+00:00"
+    },
+    {
+      "id": "TkNaZU9zPjk",
+      "title": "Building a pneumatic dragonfly",
+      "channel": "Works By Design",
+      "published": "2025-06-06T15:51:13+00:00"
+    },
+    {
+      "id": "i8W0T29TojQ",
+      "title": "The Antikythera Mechanism Episode 12, Part 1 - Making The Lunar Phase Display Assembly",
+      "channel": "Clickspring",
+      "published": "2025-06-04T18:13:49+00:00"
+    },
+    {
+      "id": "dXIkUkwzTQU",
+      "title": "Baking brownies from the inside out",
+      "channel": "Stuff Made Here",
+      "published": "2025-06-02T03:20:42+00:00"
+    },
+    {
+      "id": "M6XIgdS1rzs",
+      "title": "Iron nitride permanent magnets made with DIY ball mill and tested with DIY magnetometer",
+      "channel": "Applied Science",
+      "published": "2025-05-27T02:44:17+00:00"
+    },
+    {
+      "id": "_ZkOLxHTo1c",
+      "title": "Outsourcing Responsibility: Explosion at Optima Belle",
+      "channel": "USCSB",
+      "published": "2025-05-22T17:04:11+00:00"
+    },
+    {
+      "id": "xDLxFGXuPEc",
+      "title": "CD / Blur",
+      "channel": "Captain Disillusion",
+      "published": "2025-05-22T16:00:00+00:00"
+    },
+    {
+      "id": "J0NNO91WyXM",
+      "title": "DIY Metal-on-Glass traces",
+      "channel": "Breaking Taps",
+      "published": "2025-05-21T16:24:30+00:00"
+    },
+    {
+      "id": "9UX7NJLYyb4",
+      "title": "Can Supersonic Heating Cook Steak?",
+      "channel": "BPS.space",
+      "published": "2025-05-02T18:59:39+00:00"
+    },
+    {
+      "id": "kLgPW2672s4",
+      "title": "Novel High Resolution 3D Printing Method for Metals and Ceramics",
+      "channel": "Dan Gelbart",
+      "published": "2025-05-02T04:00:50+00:00"
+    },
+    {
+      "id": "7mG0X_bb_jE",
+      "title": "Are De-Extinct Dire Wolves going to break the game?",
+      "channel": "TierZoo",
+      "published": "2025-05-01T20:38:40+00:00"
+    },
+    {
+      "id": "itj2t8Fv8xs",
+      "title": "How I recreated Hoover Dam in 3D (historical accuracy, research, modeling, and more)",
+      "channel": "Animagraffs",
+      "published": "2025-04-26T20:00:37+00:00"
+    },
+    {
+      "id": "-RaHk6ckrEI",
+      "title": "I Needed an Engine, So I Built a CNC Machine",
+      "channel": "Tom Stanton",
+      "published": "2025-04-26T11:59:57+00:00"
+    },
+    {
+      "id": "8U6SCL6Y4ZU",
+      "title": "Rust & The Question Of Ancient Tubes - Antikythera Fragment #14",
+      "channel": "Clickspring",
+      "published": "2025-04-25T18:09:23+00:00"
+    },
+    {
+      "id": "soBvmZye3Uw",
+      "title": "DIY Tiny Camper from a Lawnmower (to Test my Fancy Science Inventions)",
+      "channel": "NightHawkInLight",
+      "published": "2025-04-25T16:23:35+00:00"
+    },
+    {
+      "id": "4EdMImlZE2s",
+      "title": "How Hoover Dam Works",
+      "channel": "Animagraffs",
+      "published": "2025-04-21T19:09:24+00:00"
+    },
+    {
+      "id": "rAdT4NmESZg",
+      "title": "DIY Zero-Expansion Glass-Ceramics. (GC Part 2)",
+      "channel": "Huygens Optics",
+      "published": "2025-04-20T22:50:03+00:00"
+    },
+    {
+      "id": "M51bMMVWbC8",
+      "title": "3D Print Anything Without Supports",
+      "channel": "Joshua Bird",
+      "published": "2025-04-19T10:00:19+00:00"
+    },
+    {
+      "id": "OuZjjActWmQ",
+      "title": "Unusual Shop Tips",
+      "channel": "Dan Gelbart",
+      "published": "2025-04-11T02:00:18+00:00"
+    },
+    {
+      "id": "wSUxK8q4D0Q",
+      "title": "Welding visualization system uses intense pulsed lighting to outshine electric arc, laser cutter",
+      "channel": "Applied Science",
+      "published": "2025-04-01T05:46:50+00:00"
+    },
+    {
+      "id": "QzP3vx8XadU",
+      "title": "Turning children's glue into drinkable alcohol",
+      "channel": "NileRed",
+      "published": "2025-03-29T21:33:19+00:00"
+    },
+    {
+      "id": "REYTmK1-Cl0",
+      "title": "The #1 Reason Rocket Parachutes Fail",
+      "channel": "BPS.space",
+      "published": "2025-03-28T17:09:36+00:00"
+    },
+    {
+      "id": "qi8jmEbWsxU",
+      "title": "The Amazing Properties of Glass-Ceramics (GC Part 1)",
+      "channel": "Huygens Optics",
+      "published": "2025-03-23T19:52:06+00:00"
+    },
+    {
+      "id": "XwNqcm1o3pI",
+      "title": "Antikythera Fragment #13 - 3 Advanced Bow Lathe Operations Essential To Construct The Mechanism.",
+      "channel": "Clickspring",
+      "published": "2025-03-22T18:10:23+00:00"
+    },
+    {
+      "id": "zp-Fk_ZiV8Y",
+      "title": "Flying playing cards are awesome",
+      "channel": "AlphaPhoenix",
+      "published": "2025-03-18T11:01:23+00:00"
+    },
+    {
+      "id": "7HNXRaP4260",
+      "title": "Are Hyenas Broken in the Current Meta?",
+      "channel": "TierZoo",
+      "published": "2025-03-06T18:00:07+00:00"
+    },
+    {
+      "id": "BO_YGcSzJdA",
+      "title": "I really thought this would fly well",
+      "channel": "Stuff Made Here",
+      "published": "2025-03-04T01:05:20+00:00"
+    },
+    {
+      "id": "9KJLWwbs_cQ",
+      "title": "Dramatically improve microscope resolution with an LED array and Fourier Ptychography",
+      "channel": "Applied Science",
+      "published": "2025-03-03T00:23:39+00:00"
+    },
+    {
+      "id": "kXa0vUy2Tlg",
+      "title": "Designing Space Hardware is Hard",
+      "channel": "Breaking Taps",
+      "published": "2025-02-28T21:03:47+00:00"
+    },
+    {
+      "id": "CFVUSDzHL8A",
+      "title": "No Detection: Explosion at Watson Grinding",
+      "channel": "USCSB",
+      "published": "2025-02-25T17:45:52+00:00"
+    },
+    {
+      "id": "Fo8gyJ1wPUY",
+      "title": "An Inventor's Attempt to Make \"Heat Batteries\" With Suspicious Ingredients",
+      "channel": "NightHawkInLight",
+      "published": "2025-02-21T19:48:13+00:00"
+    },
+    {
+      "id": "yNs5Rpij8yg",
+      "title": "Building a Supersonic Rocket Guidance System",
+      "channel": "BPS.space",
+      "published": "2025-02-03T00:37:01+00:00"
+    },
+    {
+      "id": "DQv0nlGsW-s",
+      "title": "f/0.38 camera lens made with oil immersion microscope objective",
+      "channel": "Applied Science",
+      "published": "2025-02-01T04:05:43+00:00"
+    },
+    {
+      "id": "v7r7nbIJnYI",
+      "title": "R&D Tour: The engineering behind SLA/SLS Printers",
+      "channel": "Breaking Taps",
+      "published": "2025-01-29T15:42:53+00:00"
+    },
+    {
+      "id": "vt4A8EfmxYU",
+      "title": "Running a Servo! Robot Setup and planning: Open-Source Robot Controller Part 4",
+      "channel": "Excessive Overkill",
+      "published": "2025-01-24T07:58:25+00:00"
+    },
+    {
+      "id": "wiRMdRi0LrI",
+      "title": "A motor with no moving parts (sorta)",
+      "channel": "Breaking Taps",
+      "published": "2025-01-16T19:34:26+00:00"
+    },
+    {
+      "id": "tMP5Pbx8I4s",
+      "title": "Turning Waves Into Particles",
+      "channel": "Huygens Optics",
+      "published": "2025-01-11T11:48:38+00:00"
+    },
+    {
+      "id": "sqqIxWlCfd0",
+      "title": "Fire From the Storm: Chemical Release at Bio-Lab",
+      "channel": "USCSB",
+      "published": "2025-01-07T19:56:03+00:00"
+    },
+    {
+      "id": "kiuXasyB3L0",
+      "title": "Mutarotation: a sugar that spontaneously changes from sweet to bitter",
+      "channel": "Applied Science",
+      "published": "2025-01-01T00:29:55+00:00"
+    },
+    {
+      "id": "aGDSt5XF02I",
+      "title": "something funny right now",
+      "channel": "Captain Disillusion",
+      "published": "2024-12-29T05:00:36+00:00"
+    },
+    {
+      "id": "HhzhN1Z3lKs",
+      "title": "Patron Series 3: Constructing a #ArtDeco Dial Indicator Part 3 (Making The Bridge & Main Plate)",
+      "channel": "Clickspring",
+      "published": "2024-12-23T17:01:21+00:00"
+    },
+    {
+      "id": "h9ZlONYIlFQ",
+      "title": "How Wolves Broke the Meta",
+      "channel": "TierZoo",
+      "published": "2024-12-23T16:11:45+00:00"
+    },
+    {
+      "id": "OkadsUTl1Pw",
+      "title": "My Custom 3D Tools & Workflow for Creating Animagraffs (Blender)",
+      "channel": "Animagraffs",
+      "published": "2024-12-20T23:51:57+00:00"
+    },
+    {
+      "id": "2yCjO-wRxyM",
+      "title": "SNL VFX Mystery | Quick D",
+      "channel": "Captain Disillusion",
+      "published": "2024-12-20T17:32:04+00:00"
+    },
+    {
+      "id": "IaXdSGkh8Ww",
+      "title": "I built a 1,000,000,000 fps video camera to watch light move",
+      "channel": "AlphaPhoenix",
+      "published": "2024-12-20T11:00:19+00:00"
+    },
+    {
+      "id": "j5iGHpDToH4",
+      "title": "Constructing A Byzantine Sundial-Calendar - Part 8 (Engraving & Final Assembly)",
+      "channel": "Clickspring",
+      "published": "2024-12-15T00:01:15+00:00"
+    },
+    {
+      "id": "jRbXzujI6ho",
+      "title": "Using Condoms to Make a Rocket Nosecone",
+      "channel": "BPS.space",
+      "published": "2024-12-13T20:56:18+00:00"
+    },
+    {
+      "id": "aUPWfZS_uAM",
+      "title": "The Most Minimal Electric Bike",
+      "channel": "Tom Stanton",
+      "published": "2024-12-07T20:27:04+00:00"
+    },
+    {
+      "id": "_nR1-J676ao",
+      "title": "How an Off-Road Racing Trophy Truck Works (Baja 1000)",
+      "channel": "Animagraffs",
+      "published": "2024-12-06T19:59:57+00:00"
+    },
+    {
+      "id": "dfYSBlV90NQ",
+      "title": "I made a liquid metal electric thruster",
+      "channel": "Breaking Taps",
+      "published": "2024-12-06T18:44:11+00:00"
+    },
+    {
+      "id": "aXfTgCCsRSg",
+      "title": "What if we made a camera that sees in reverse?",
+      "channel": "Stuff Made Here",
+      "published": "2024-12-04T14:43:59+00:00"
+    },
+    {
+      "id": "F5BBz4r-zgc",
+      "title": "The Jellyfish Tier List",
+      "channel": "TierZoo",
+      "published": "2024-12-02T16:10:25+00:00"
+    },
+    {
+      "id": "VEgwnhLHy3g",
+      "title": "I Built a 4 Axis 3D Printer Unlike Anything You’ve Seen",
+      "channel": "Joshua Bird",
+      "published": "2024-12-01T15:46:34+00:00"
+    },
+    {
+      "id": "6oxn3Rjo0RE",
+      "title": "Constructing A Byzantine Sundial-Calendar - Part 7 (Making The Gnomon & Support Rings)",
+      "channel": "Clickspring",
+      "published": "2024-11-26T18:11:01+00:00"
+    },
+    {
+      "id": "Qw7xXYypFQ0",
+      "title": "The July Revolution (1820 to 1830)",
+      "channel": "Historia Civilis",
+      "published": "2024-11-23T17:00:11+00:00"
+    },
+    {
+      "id": "KINBSeCACow",
+      "title": "Strawberries make surprisingly GIANT Bubbles (Best DIY Bubble Recipes)",
+      "channel": "NightHawkInLight",
+      "published": "2024-11-15T18:58:36+00:00"
+    },
+    {
+      "id": "WCKt405t9V8",
+      "title": "Resonance is more than just standing waves",
+      "channel": "AlphaPhoenix",
+      "published": "2024-11-09T11:00:39+00:00"
+    },
+    {
+      "id": "8WSyoITbP-c",
+      "title": "Gorilla vs Grizzly Debate is Insane",
+      "channel": "TierZoo",
+      "published": "2024-11-02T16:13:41+00:00"
+    },
+    {
+      "id": "CSOnnle3zbA",
+      "title": "Building a REAL pawn that transforms into a queen (automatically)",
+      "channel": "Works By Design",
+      "published": "2024-11-02T03:20:27+00:00"
+    },
+    {
+      "id": "A5z4tklTvMQ",
+      "title": "Testing DIY Custom Rubber Tires Made With 3D Printing",
+      "channel": "Excessive Overkill",
+      "published": "2024-10-22T04:00:06+00:00"
+    },
+    {
+      "id": "NVqT2Gbrvxs",
+      "title": "PMT2: Photon  Bunching / Hanbury Brown & Twiss effect",
+      "channel": "Huygens Optics",
+      "published": "2024-10-20T06:26:25+00:00"
+    },
+    {
+      "id": "CcMnf86n8_U",
+      "title": "No Way Down: Chemical Release at Wacker Polysilicon",
+      "channel": "USCSB",
+      "published": "2024-10-17T20:49:39+00:00"
+    },
+    {
+      "id": "KIxZ1AESBRU",
+      "title": "Prototyping on a 5-axis CNC",
+      "channel": "Breaking Taps",
+      "published": "2024-10-16T15:53:41+00:00"
+    },
+    {
+      "id": "gqVJDHK5EjM",
+      "title": "Firelaser V2 part 1: Designing a New Pump",
+      "channel": "Excessive Overkill",
+      "published": "2024-09-30T21:42:50+00:00"
+    },
+    {
+      "id": "g8pjrVbdafY",
+      "title": "This puzzle took me three years and required thinking in 3721 dimensions",
+      "channel": "AlphaPhoenix",
+      "published": "2024-09-30T10:00:44+00:00"
+    },
+    {
+      "id": "CJTJ1c-Bo4Y",
+      "title": "Homemade Machine Turns Bioplastics Into Cooling Fabric",
+      "channel": "NightHawkInLight",
+      "published": "2024-09-27T14:45:03+00:00"
+    },
+    {
+      "id": "UGj8rcxYrpU",
+      "title": "Camels are lowkey insanely broken",
+      "channel": "TierZoo",
+      "published": "2024-09-25T14:34:44+00:00"
+    },
+    {
+      "id": "IpzBdVeJ_jo",
+      "title": "Voiding my warranty to fix the Insta360",
+      "channel": "Breaking Taps",
+      "published": "2024-09-24T19:36:34+00:00"
+    },
+    {
+      "id": "5V8VCFkAd0A",
+      "title": "PMT1: Using a Photomultiplier to Detect Single Photons",
+      "channel": "Huygens Optics",
+      "published": "2024-09-11T09:58:03+00:00"
+    },
+    {
+      "id": "O0-6g6NJMmE",
+      "title": "Low-tech coating is a microscopic marvel",
+      "channel": "Breaking Taps",
+      "published": "2024-09-08T17:31:31+00:00"
+    },
+    {
+      "id": "3pYqXrFx6S8",
+      "title": "How a 16th Century Explorer's Sailing Ship Works",
+      "channel": "Animagraffs",
+      "published": "2024-09-04T19:28:01+00:00"
+    },
+    {
+      "id": "v4zTAkLKgm4",
+      "title": "Electromagnetic Aircraft Launcher",
+      "channel": "Tom Stanton",
+      "published": "2024-09-04T16:00:03+00:00"
+    },
+    {
+      "id": "jLX1-tNnvEo",
+      "title": "Making an atomic trampoline",
+      "channel": "NileRed",
+      "published": "2024-08-31T00:37:47+00:00"
+    },
+    {
+      "id": "ZPTFFPLOzCw",
+      "title": "Making Quantum Mirrors with Diamonds",
+      "channel": "Breaking Taps",
+      "published": "2024-08-28T18:25:07+00:00"
+    },
+    {
+      "id": "4vQ_6yMf7Hg",
+      "title": "Are Mongooses Overpowered?",
+      "channel": "TierZoo",
+      "published": "2024-08-28T15:00:48+00:00"
+    },
+    {
+      "id": "8i9WMD6xbuA",
+      "title": "Dragonflies hunt by predicting the future",
+      "channel": "AlphaPhoenix",
+      "published": "2024-08-15T10:00:09+00:00"
+    },
+    {
+      "id": "YqywL9PkM2s",
+      "title": "After 100+ parts and 45 hours of practice, I did it",
+      "channel": "Stuff Made Here",
+      "published": "2024-08-09T03:42:19+00:00"
+    },
+    {
+      "id": "oVWsbpdDxTg",
+      "title": "Beckham Beach Kicks DEBUNK",
+      "channel": "Captain Disillusion",
+      "published": "2024-08-02T22:33:20+00:00"
+    },
+    {
+      "id": "RuVS7MsQk4Y",
+      "title": "Speedrunning 30yrs of lithography technology",
+      "channel": "Breaking Taps",
+      "published": "2024-07-31T20:23:09+00:00"
+    },
+    {
+      "id": "G8YBV7GoF_s",
+      "title": "DIY Cooling Fibers Successfully Made!",
+      "channel": "NightHawkInLight",
+      "published": "2024-07-27T14:56:53+00:00"
+    },
+    {
+      "id": "hxkRjkuFQBw",
+      "title": "Designed to Fail: Chemical Release at LyondellBasell",
+      "channel": "USCSB",
+      "published": "2024-07-11T17:54:57+00:00"
+    },
+    {
+      "id": "es5aPICeXOU",
+      "title": "Are House Cats Overpowered?",
+      "channel": "TierZoo",
+      "published": "2024-06-30T16:00:36+00:00"
+    },
+    {
+      "id": "tVm2Cvy6UEY",
+      "title": "Knowing the one-way speed of light",
+      "channel": "Huygens Optics",
+      "published": "2024-06-29T19:28:18+00:00"
+    },
+    {
+      "id": "Nqxjfp4Gi0k",
+      "title": "DIY Supermaterial Could Save You From Heatstroke: Salt based PCMs",
+      "channel": "NightHawkInLight",
+      "published": "2024-06-21T13:32:28+00:00"
+    },
+    {
+      "id": "u1lU64CG8p8",
+      "title": "How a Helicopter Works (Bell 407)",
+      "channel": "Animagraffs",
+      "published": "2024-06-19T00:13:45+00:00"
+    },
+    {
+      "id": "xCg3qNnh59w",
+      "title": "Making another pickproof lock (but better)",
+      "channel": "Works By Design",
+      "published": "2024-06-14T23:47:44+00:00"
+    },
+    {
+      "id": "UIqhpxul_og",
+      "title": "Micronics SLS nylon 3D printer makes electronic circuits",
+      "channel": "Applied Science",
+      "published": "2024-06-13T17:15:02+00:00"
+    },
+    {
+      "id": "Y65FRxE7uMc",
+      "title": "Badness 0 (Apostrophe‛s version)",
+      "channel": "suckerpinch",
+      "published": "2024-06-07T01:15:12+00:00"
+    },
+    {
+      "id": "6gchoHrsCp4",
+      "title": "Building a Turbine Car",
+      "channel": "Tom Stanton",
+      "published": "2024-05-25T20:00:03+00:00"
+    },
+    {
+      "id": "TQiLLcumqDw",
+      "title": "Stealing biology for tiny robots",
+      "channel": "Breaking Taps",
+      "published": "2024-05-15T18:20:28+00:00"
+    },
+    {
+      "id": "VCXqELB3UPg",
+      "title": "You can mix 10 marbles until they sort themselves. Why not 100?",
+      "channel": "AlphaPhoenix",
+      "published": "2024-05-05T10:00:20+00:00"
+    },
+    {
+      "id": "HedRbIsM75M",
+      "title": "A Better Way to Waterproof Fabric",
+      "channel": "NightHawkInLight",
+      "published": "2024-05-03T15:01:09+00:00"
+    },
+    {
+      "id": "t9rClZrbnrQ",
+      "title": "Precision guided launcher turns noobs into pros",
+      "channel": "Stuff Made Here",
+      "published": "2024-05-02T16:42:37+00:00"
+    },
+    {
+      "id": "miRnNy7ZvIc",
+      "title": "I Made Real-life Airsoft AIM-ASSIST: Aimbot V3",
+      "channel": "Excessive Overkill",
+      "published": "2024-04-07T02:08:28+00:00"
+    },
+    {
+      "id": "qm5AHAb0SmY",
+      "title": "I made a machine to un-mix fluids",
+      "channel": "AlphaPhoenix",
+      "published": "2024-04-04T10:00:42+00:00"
+    },
+    {
+      "id": "NBZmifvDJ58",
+      "title": "Gravitational Index of Refraction",
+      "channel": "Huygens Optics",
+      "published": "2024-03-31T20:26:02+00:00"
+    },
+    {
+      "id": "zMaTrgUKC1w",
+      "title": "Turning styrofoam into cinnamon candy",
+      "channel": "NileRed",
+      "published": "2024-03-16T21:20:23+00:00"
+    },
+    {
+      "id": "R0wwuj0sTyY",
+      "title": "The Year Without a Summer (1816 to 1824)",
+      "channel": "Historia Civilis",
+      "published": "2024-03-16T16:00:13+00:00"
+    },
+    {
+      "id": "eoVUdwOgjiA",
+      "title": "This Car Travels Farther Than You Push It",
+      "channel": "Tom Stanton",
+      "published": "2024-03-15T19:10:00+00:00"
+    },
+    {
+      "id": "83SAOyb8mQY",
+      "title": "Making Opals for Free Air Conditioning",
+      "channel": "NightHawkInLight",
+      "published": "2024-03-15T16:00:08+00:00"
+    },
+    {
+      "id": "hP7CDg0id4I",
+      "title": "How I reconstructed the SR-71 Blackbird (in-depth research, 3D modelling, animation, and more)",
+      "channel": "Animagraffs",
+      "published": "2024-03-14T00:34:02+00:00"
+    },
+    {
+      "id": "WZyIhKtJM00",
+      "title": "Making ice skates from frozen water.",
+      "channel": "Works By Design",
+      "published": "2024-03-11T01:07:42+00:00"
+    },
+    {
+      "id": "yMeRAg61_Wc",
+      "title": "Exploring White Light Interferometry!  (WLI / CSI)",
+      "channel": "Huygens Optics",
+      "published": "2024-03-03T20:35:48+00:00"
+    },
+    {
+      "id": "gkyVZxtsubM",
+      "title": "How the Lockheed SR-71 Blackbird Works",
+      "channel": "Animagraffs",
+      "published": "2024-03-01T22:52:52+00:00"
+    },
+    {
+      "id": "T7Hb8kRUHEI",
+      "title": "How I recreated an entire Steam Locomotive in 3D",
+      "channel": "Animagraffs",
+      "published": "2024-02-01T23:17:20+00:00"
+    },
+    {
+      "id": "28S47EE_opA",
+      "title": "CD / Shutter Speed",
+      "channel": "Captain Disillusion",
+      "published": "2024-01-28T07:19:52+00:00"
+    },
+    {
+      "id": "BB_o6EhmoqU",
+      "title": "The First PCBs: Open-source Industrial Robot Controller Part 3",
+      "channel": "Excessive Overkill",
+      "published": "2024-01-16T23:27:56+00:00"
+    },
+    {
+      "id": "9SRFbFreCkE",
+      "title": "I made these to do a ridiculously high dunk",
+      "channel": "Stuff Made Here",
+      "published": "2024-01-01T03:48:11+00:00"
+    },
+    {
+      "id": "d6Pcp944sRI",
+      "title": "Making purple gold",
+      "channel": "NileRed",
+      "published": "2023-12-22T19:14:34+00:00"
+    },
+    {
+      "id": "zEahoJZgfys",
+      "title": "Super Capacitor Plane",
+      "channel": "Tom Stanton",
+      "published": "2023-12-21T18:40:03+00:00"
+    },
+    {
+      "id": "2AXv49dDQJw",
+      "title": "Watch electricity hit a fork in the road at half a billion frames per second",
+      "channel": "AlphaPhoenix",
+      "published": "2023-12-06T11:00:00+00:00"
+    },
+    {
+      "id": "kJSZ-OTryo0",
+      "title": "one mil subs. to the moon!",
+      "channel": "Animagraffs",
+      "published": "2023-11-18T20:16:08+00:00"
+    },
+    {
+      "id": "0ql20JKrscQ",
+      "title": "Open Source Motion Capture for Autonomous Drones",
+      "channel": "Joshua Bird",
+      "published": "2023-11-15T11:24:26+00:00"
+    },
+    {
+      "id": "angnUj0-yhQ",
+      "title": "Building a rocket bird (ornithopter)",
+      "channel": "Works By Design",
+      "published": "2023-11-11T11:25:40+00:00"
+    },
+    {
+      "id": "XQgYQ-ILHEE",
+      "title": "Surviving Feedback - Live at the Blender Conference 2023",
+      "channel": "Captain Disillusion",
+      "published": "2023-11-02T18:34:24+00:00"
+    },
+    {
+      "id": "CglNRNrMFGM",
+      "title": "Making bulletproof wood",
+      "channel": "NileRed",
+      "published": "2023-10-31T22:55:13+00:00"
+    },
+    {
+      "id": "Ho2l1K4Jprg",
+      "title": "Flying a Plane Powered by Thin Air",
+      "channel": "Tom Stanton",
+      "published": "2023-10-12T18:11:01+00:00"
+    },
+    {
+      "id": "wh8ij9NnLIQ",
+      "title": "Six questionably legal pencil sharpeners",
+      "channel": "Stuff Made Here",
+      "published": "2023-10-11T00:54:30+00:00"
+    },
+    {
+      "id": "hvk_XylEmLo",
+      "title": "Work.",
+      "channel": "Historia Civilis",
+      "published": "2023-09-29T16:00:16+00:00"
+    },
+    {
+      "id": "X_crwFuPht4",
+      "title": "An intuitive approach for understanding electricity",
+      "channel": "AlphaPhoenix",
+      "published": "2023-09-08T09:00:19+00:00"
+    },
+    {
+      "id": "Li40gHcwU-8",
+      "title": "Building A Robot Controller From Scratch: Open-source Robot Controller Part 2",
+      "channel": "Excessive Overkill",
+      "published": "2023-09-02T22:42:06+00:00"
+    },
+    {
+      "id": "-qETedzsFIE",
+      "title": "Photosynthesis photography: Making images with living plant leaves",
+      "channel": "Applied Science",
+      "published": "2023-08-27T02:12:29+00:00"
+    },
+    {
+      "id": "jNfpRZsFmFk",
+      "title": "4,500RPM Air Engine",
+      "channel": "Tom Stanton",
+      "published": "2023-08-21T17:00:06+00:00"
+    },
+    {
+      "id": "SHx4xVhfS3w",
+      "title": "Empty World | Quick D",
+      "channel": "Captain Disillusion",
+      "published": "2023-08-08T14:00:08+00:00"
+    },
+    {
+      "id": "6-3BFXpBcjc",
+      "title": "The Danger of Popcorn Polymer: Incident at the TPC Group Chemical Plant",
+      "channel": "USCSB",
+      "published": "2023-07-19T16:54:15+00:00"
+    },
+    {
+      "id": "-cAB5FG4bXI",
+      "title": "Measuring the amount of lead (Pb) consumed when drinking from lead crystal glassware. Is it safe?",
+      "channel": "Applied Science",
+      "published": "2023-07-06T04:59:35+00:00"
+    },
+    {
+      "id": "cYF_D-4PhUU",
+      "title": "Optimising an Air Engine",
+      "channel": "Tom Stanton",
+      "published": "2023-06-29T17:59:57+00:00"
+    },
+    {
+      "id": "xev18rBrNr0",
+      "title": "Building a more efficient bike",
+      "channel": "Works By Design",
+      "published": "2023-06-25T17:36:29+00:00"
+    },
+    {
+      "id": "sFhkzK7jkKg",
+      "title": "Transient Hazards: Explosion at the Husky Superior Refinery",
+      "channel": "USCSB",
+      "published": "2023-06-09T15:55:59+00:00"
+    },
+    {
+      "id": "NIVkBs7oWDI",
+      "title": "Turning paint thinner into cherry soda",
+      "channel": "NileRed",
+      "published": "2023-06-01T22:45:17+00:00"
+    },
+    {
+      "id": "cQO2XTP7QDw",
+      "title": "I sent robot forgeries to a handwriting expert",
+      "channel": "Stuff Made Here",
+      "published": "2023-05-27T17:39:55+00:00"
+    },
+    {
+      "id": "fyD1yv-6sTc",
+      "title": "Two ways to make asymmetric mirrors (Printing vs. Warping)",
+      "channel": "AlphaPhoenix",
+      "published": "2023-05-26T16:00:35+00:00"
+    },
+    {
+      "id": "EezHXh-UG-c",
+      "title": "The Death of Antony & Cleopatra (30 B.C.E.)",
+      "channel": "Historia Civilis",
+      "published": "2023-05-20T16:00:14+00:00"
+    },
+    {
+      "id": "j6tbG6b6xRg",
+      "title": "Orangutan Card Trick DEBUNK",
+      "channel": "Captain Disillusion",
+      "published": "2023-05-02T17:02:52+00:00"
+    },
+    {
+      "id": "Ae9EKCyI1xU",
+      "title": "GradIEEEnt half decent: The hidden power of imprecise lines",
+      "channel": "suckerpinch",
+      "published": "2023-05-01T22:56:03+00:00"
+    },
+    {
+      "id": "v2DS-Z8nJGI",
+      "title": "Making a pickproof lock to stop honest criminals.",
+      "channel": "Works By Design",
+      "published": "2023-04-27T19:24:39+00:00"
+    },
+    {
+      "id": "Dg8oVR4k5Dk",
+      "title": "Gearless Magnet Bike",
+      "channel": "Tom Stanton",
+      "published": "2023-03-24T17:00:01+00:00"
+    },
+    {
+      "id": "7U-25yO93R4",
+      "title": "FlowBlocks - Cambridge undergrad project for the Raspberry Pi Foundation",
+      "channel": "Joshua Bird",
+      "published": "2023-03-09T15:58:46+00:00"
+    },
+    {
+      "id": "1c8i5SABqwU",
+      "title": "How I ran the length of every street in Pittsburgh: PAC TOM",
+      "channel": "suckerpinch",
+      "published": "2022-12-28T15:31:52+00:00"
+    },
+    {
+      "id": "LmAG8-V_WQY",
+      "title": "Making the stinkiest chemical known to man",
+      "channel": "NileRed",
+      "published": "2022-12-24T00:46:40+00:00"
+    },
+    {
+      "id": "t7Y-1qMKY_0",
+      "title": "The Battle of Actium (31 B.C.E.)",
+      "channel": "Historia Civilis",
+      "published": "2022-12-17T20:15:07+00:00"
+    },
+    {
+      "id": "t2DGouNMKbs",
+      "title": "3D Printed Film Video Camera",
+      "channel": "Joshua Bird",
+      "published": "2022-12-04T20:08:56+00:00"
+    },
+    {
+      "id": "WsPHBD5NsS0",
+      "title": "Worlds hardest jigsaw vs. puzzle machine (all white)",
+      "channel": "Stuff Made Here",
+      "published": "2022-12-01T04:42:44+00:00"
+    },
+    {
+      "id": "XobSAXZaKJ8",
+      "title": "CD / The Horrors of the Alpha Channel",
+      "channel": "Captain Disillusion",
+      "published": "2022-10-22T14:50:15+00:00"
+    },
+    {
+      "id": "HURI6EHXybc",
+      "title": "War and Peace ...and War (35 to 32 B.C.E.)",
+      "channel": "Historia Civilis",
+      "published": "2022-09-30T19:00:13+00:00"
+    },
+    {
+      "id": "Q1VWUL0G0uU",
+      "title": "腐っていく肉と腐らせたくない男の肉物語。肉で作られた包丁",
+      "channel": "Kiwami Japan",
+      "published": "2022-09-04T12:30:06+00:00"
+    },
+    {
+      "id": "Gu_1S77XkiM",
+      "title": "A simple human task that's insanely hard for a robot",
+      "channel": "Stuff Made Here",
+      "published": "2022-08-01T06:22:20+00:00"
+    },
+    {
+      "id": "0Cz8CjLq0fQ",
+      "title": "Music Video VFX Magic With ATARASHII GAKKO!",
+      "channel": "Captain Disillusion",
+      "published": "2022-07-26T22:00:11+00:00"
+    },
+    {
+      "id": "hKRIdpWWgb0",
+      "title": "Firelaser v1: My longest burning handheld lightsaber yet",
+      "channel": "Excessive Overkill",
+      "published": "2022-07-14T21:34:11+00:00"
+    },
+    {
+      "id": "JcJSW7Rprio",
+      "title": "Harder Drive: Hard drives we didn't want or need",
+      "channel": "suckerpinch",
+      "published": "2022-04-10T02:03:03+00:00"
+    },
+    {
+      "id": "OGJHE6O7Mhk",
+      "title": "The Congress of Vienna (Part 2) (1814 to 1815)",
+      "channel": "Historia Civilis",
+      "published": "2022-04-02T16:32:00+00:00"
+    },
+    {
+      "id": "5tmJj1K2oTk",
+      "title": "Recreating Aerochrome – A Discontinued Infrared Film",
+      "channel": "Joshua Bird",
+      "published": "2022-03-11T01:40:30+00:00"
+    },
+    {
+      "id": "VlpIQU3rlzU",
+      "title": "This Airsoft Gun Can Track Targets",
+      "channel": "Excessive Overkill",
+      "published": "2022-03-05T10:51:02+00:00"
+    },
+    {
+      "id": "1B3Xi5L6siI",
+      "title": "Turning plastic gloves into hot sauce",
+      "channel": "NileRed",
+      "published": "2022-02-26T17:37:53+00:00"
+    },
+    {
+      "id": "eh0IaUn4z9k",
+      "title": "ロウソク人形プレイにハマったら6ヶ月が溶けた。米ぬか蝋燭の包丁",
+      "channel": "Kiwami Japan",
+      "published": "2022-01-30T12:00:15+00:00"
+    },
+    {
+      "id": "QtOXq9SwarQ",
+      "title": "The Congress of Vienna (Part 1) (1814)",
+      "channel": "Historia Civilis",
+      "published": "2022-01-29T16:15:19+00:00"
+    },
+    {
+      "id": "2OEwbocwYF8",
+      "title": "The Great British Fake Off | Quick D",
+      "channel": "Captain Disillusion",
+      "published": "2021-12-25T18:14:35+00:00"
+    },
+    {
+      "id": "HWPYoE1SNnA",
+      "title": "Dan Gelbart Workshop Tour HD",
+      "channel": "Dan Gelbart",
+      "published": "2021-10-20T03:02:31+00:00"
+    },
+    {
+      "id": "vHuFizITMdA",
+      "title": "Turning cotton balls into cotton candy",
+      "channel": "NileRed",
+      "published": "2021-09-03T20:03:49+00:00"
+    },
+    {
+      "id": "IBRBO7KkFTo",
+      "title": "Playing With 'Playing With Time' | Quick D",
+      "channel": "Captain Disillusion",
+      "published": "2021-09-02T13:59:57+00:00"
+    },
+    {
+      "id": "IS5ycm7VfXg",
+      "title": "\"Z2\" - Upgraded Homemade Silicon Chips",
+      "channel": "Sam Zeloof",
+      "published": "2021-08-13T23:09:25+00:00"
+    },
+    {
+      "id": "CH1oYhTigyA",
+      "title": "Peace...? (1814)",
+      "channel": "Historia Civilis",
+      "published": "2021-07-18T13:56:36+00:00"
+    },
+    {
+      "id": "RoQgnC0Oz2k",
+      "title": "Etching Silicon with Plasma - Reactive Ion Etching (RIE)",
+      "channel": "Sam Zeloof",
+      "published": "2021-06-27T01:17:36+00:00"
+    },
+    {
+      "id": "yBIeavntc5U",
+      "title": "除菌抗菌滅菌殺菌チョコレート包丁。食べたら歯が抜けまーす",
+      "channel": "Kiwami Japan",
+      "published": "2021-05-30T13:45:06+00:00"
+    },
+    {
+      "id": "tyixMpuGEL8",
+      "title": "Flight of the Navigator | VFXcool",
+      "channel": "Captain Disillusion",
+      "published": "2021-05-20T19:00:14+00:00"
+    },
+    {
+      "id": "uUU3jW7Y9Ak",
+      "title": "Making transparent wood",
+      "channel": "NileRed",
+      "published": "2021-04-30T19:51:51+00:00"
+    },
+    {
+      "id": "POHNhn3WcCc",
+      "title": "Antony's Invasion of Parthia (42 to 33 B.C.E.)",
+      "channel": "Historia Civilis",
+      "published": "2021-04-24T14:00:31+00:00"
+    },
+    {
+      "id": "DjNKo1fzkUE",
+      "title": "RGB Led Cube (96 LEDs, Battery Powered, Gyroscope & WiFi)",
+      "channel": "Joshua Bird",
+      "published": "2021-04-03T08:56:53+00:00"
+    },
+    {
+      "id": "HLRdruqQfRk",
+      "title": "Uppestcase and Lowestcase Letters  [advances in derp learning]",
+      "channel": "suckerpinch",
+      "published": "2021-04-01T23:30:00+00:00"
+    },
+    {
+      "id": "SIfIZqXaR0g",
+      "title": "Making a deadly chemical in my parents' garage",
+      "channel": "NileRed",
+      "published": "2021-01-31T19:15:09+00:00"
+    },
+    {
+      "id": "WIkDjTwyc00",
+      "title": "カニを飾るため2ヶ月間煮たら透明になって包丁になった",
+      "channel": "Kiwami Japan",
+      "published": "2021-01-24T12:30:05+00:00"
+    },
+    {
+      "id": "8rt67AqrR74",
+      "title": "Sextus Pompeius and the Sicilian War (42 to 36 B.C.E.)",
+      "channel": "Historia Civilis",
+      "published": "2021-01-16T17:16:28+00:00"
+    },
+    {
+      "id": "omO5tWPLk4E",
+      "title": "Mr. Flare Explains: The Popcorn Guy",
+      "channel": "Captain Disillusion",
+      "published": "2020-12-25T22:59:46+00:00"
+    },
+    {
+      "id": "zFZ5jQ0yuNA",
+      "title": "Turning plastic gloves into grape soda",
+      "channel": "NileRed",
+      "published": "2020-12-19T00:00:49+00:00"
+    },
+    {
+      "id": "WYagO-nup6c",
+      "title": "Does cyanide actually smell like almonds?",
+      "channel": "NileRed",
+      "published": "2020-10-31T17:51:50+00:00"
+    },
+    {
+      "id": "01WzbuO7_ms",
+      "title": "人間をペットにしたら即死する飼い主。きゅうりのハロウィン包丁",
+      "channel": "Kiwami Japan",
+      "published": "2020-10-25T13:45:00+00:00"
+    },
+    {
+      "id": "0QcJO8uHrc8",
+      "title": "Behind the Scenes with James Randi",
+      "channel": "Captain Disillusion",
+      "published": "2020-10-22T01:23:00+00:00"
+    },
+    {
+      "id": "gdavaK3d4Pc",
+      "title": "The Battle of Philippi (42 B.C.E.)",
+      "channel": "Historia Civilis",
+      "published": "2020-09-22T13:48:35+00:00"
+    },
+    {
+      "id": "MFCNUvFEVFY",
+      "title": "卵にシャンプーとリンスをしたら卵から包丁が生まれました",
+      "channel": "Kiwami Japan",
+      "published": "2020-08-15T12:15:01+00:00"
+    },
+    {
+      "id": "aq4G-7v-_xI",
+      "title": "The Bronze Age Collapse (approximately 1200 B.C.E.)",
+      "channel": "Historia Civilis",
+      "published": "2020-07-25T13:18:15+00:00"
+    },
+    {
+      "id": "lLTfMLaX820",
+      "title": "Historical Scientific Instruments",
+      "channel": "Dan Gelbart",
+      "published": "2020-06-26T14:33:31+00:00"
+    },
+    {
+      "id": "Nxz_ENnmgtI",
+      "title": "Maskless Photolithography Stepper for Homemade Chips",
+      "channel": "Sam Zeloof",
+      "published": "2020-06-18T23:01:09+00:00"
+    },
+    {
+      "id": "qm9N_SPhwR8",
+      "title": "砂を電子レンジでチンして包丁を作る男とコーナーダッシュする女",
+      "channel": "Kiwami Japan",
+      "published": "2020-06-13T12:30:09+00:00"
+    },
+    {
+      "id": "Z2OYdKb2fpM",
+      "title": "High energy particle mirror",
+      "channel": "Sam Zeloof",
+      "published": "2020-05-14T21:01:33+00:00"
+    },
+    {
+      "id": "vPu6lN9yJOY",
+      "title": "Counting Atoms with the Doppler Effect - Heterodyne Interferometer",
+      "channel": "Sam Zeloof",
+      "published": "2020-05-12T04:21:22+00:00"
+    },
+    {
+      "id": "vOijNeDcX-0",
+      "title": "Simple Thin Film Thickness Measurement with Spectrometer",
+      "channel": "Sam Zeloof",
+      "published": "2020-05-09T03:41:42+00:00"
+    },
+    {
+      "id": "BNP15d-cgu8",
+      "title": "愛が重すぎる手作りキャンディーはポイ捨てされ包丁へ",
+      "channel": "Kiwami Japan",
+      "published": "2020-04-05T12:00:03+00:00"
+    },
+    {
+      "id": "D2XNVFlh-DU",
+      "title": "相手に必ず告白されるバレンタインチョコ包丁ルーティーン",
+      "channel": "Kiwami Japan",
+      "published": "2020-02-16T13:15:00+00:00"
+    },
+    {
+      "id": "pFG-nXUw6Ts",
+      "title": "これは海水からセメントを取り出し包丁が作れるレシピ",
+      "channel": "Kiwami Japan",
+      "published": "2020-01-05T11:45:01+00:00"
+    },
+    {
+      "id": "t_j6rlMSQ_g",
+      "title": "水と油を婚活させようとしたら包丁になりました",
+      "channel": "Kiwami Japan",
+      "published": "2019-12-01T11:48:55+00:00"
+    },
+    {
+      "id": "WZJ7nSdIbwk",
+      "title": "菌を愛したら増えすぎたので包丁にして差し上げました",
+      "channel": "Kiwami Japan",
+      "published": "2019-10-26T13:00:11+00:00"
+    },
+    {
+      "id": "XrEC2LGGXn0",
+      "title": "\"Z1\" - Homemade Silicon ICs / Computer Chips",
+      "channel": "Sam Zeloof",
+      "published": "2019-10-02T18:02:24+00:00"
+    },
+    {
+      "id": "24LC_2r3dwU",
+      "title": "このヤンデレは豆腐を包丁にして帰りを待ちます",
+      "channel": "Kiwami Japan",
+      "published": "2019-09-28T14:09:16+00:00"
+    },
+    {
+      "id": "nyYcomX7Lus",
+      "title": "Prototyping - Metal 3D Printing",
+      "channel": "Dan Gelbart",
+      "published": "2019-09-17T19:19:29+00:00"
+    },
+    {
+      "id": "d7_WDPGNOZ4",
+      "title": "このペットは髪の毛で作られています",
+      "channel": "Kiwami Japan",
+      "published": "2019-08-31T12:30:15+00:00"
+    },
+    {
+      "id": "JKi85QNr7zo",
+      "title": "人間の爪を1年間集めて作った婚約指輪",
+      "channel": "Kiwami Japan",
+      "published": "2019-07-27T12:30:00+00:00"
+    },
+    {
+      "id": "DpXy041BIlA",
+      "title": "30 Weird Chess Algorithms: Elo World",
+      "channel": "suckerpinch",
+      "published": "2019-07-15T23:00:29+00:00"
+    },
+    {
+      "id": "mvZ1dJuvenw",
+      "title": "Wire Bonding Basics - Manual Wedge Bonding ICs",
+      "channel": "Sam Zeloof",
+      "published": "2019-07-04T03:38:29+00:00"
+    },
+    {
+      "id": "5TFDG-y-EHs",
+      "title": "NaN Gates and Flip FLOPS",
+      "channel": "suckerpinch",
+      "published": "2019-04-01T20:24:52+00:00"
+    },
+    {
+      "id": "SB94rQtKlKI",
+      "title": "Making Tiny Things with Electron Microscope - E-beam Lithography",
+      "channel": "Sam Zeloof",
+      "published": "2018-12-07T18:23:43+00:00"
+    },
+    {
+      "id": "hTlNVUmBA28",
+      "title": "Making of \"Reverse emulating the NES...\"",
+      "channel": "suckerpinch",
+      "published": "2018-05-29T02:25:17+00:00"
+    },
+    {
+      "id": "ar9WRwCiSr0",
+      "title": "Reverse emulating the NES to give it SUPER POWERS!",
+      "channel": "suckerpinch",
+      "published": "2018-05-29T00:54:13+00:00"
+    },
+    {
+      "id": "kOJGZJa3cZg",
+      "title": "Energy Dispersive X-ray Spectroscopy (EDS) with Silicon Drift Detector (SDD) Theory and Demo",
+      "channel": "Sam Zeloof",
+      "published": "2018-02-03T21:17:29+00:00"
+    },
+    {
+      "id": "IHai1Vf0BD0",
+      "title": "SEM Optimization, Astigmatism Correction, and Basic Electron Optics",
+      "channel": "Sam Zeloof",
+      "published": "2018-01-04T23:38:59+00:00"
+    },
+    {
+      "id": "HUtW7a3XWBM",
+      "title": "RGA Residual Gas Analyzer (Mass Spectrometer) Experiments and Helium Leak Checking",
+      "channel": "Sam Zeloof",
+      "published": "2017-12-31T03:33:44+00:00"
+    },
+    {
+      "id": "qTBAW-Eh0tM",
+      "title": "Anagrams, but where you can break apart letters: \"Anagraphs\"",
+      "channel": "suckerpinch",
+      "published": "2017-12-18T14:18:06+00:00"
+    },
+    {
+      "id": "8_npHZbe3qM",
+      "title": "Generalized kerning is undecidable! But anagraphing is possible. (Tom Academy)",
+      "channel": "suckerpinch",
+      "published": "2017-12-18T14:17:09+00:00"
+    },
+    {
+      "id": "zZO-ueIYBok",
+      "title": "Inductively Coupled Plasma Photoresist O2 Ashing/Descum",
+      "channel": "Sam Zeloof",
+      "published": "2017-08-31T01:15:41+00:00"
+    },
+    {
+      "id": "OSkeIcz9SqI",
+      "title": "Photonic Bandgap Nanostructures - Butterfly Wing SEM Imaging",
+      "channel": "Sam Zeloof",
+      "published": "2017-06-04T19:52:24+00:00"
+    },
+    {
+      "id": "vOBUx9HtMi4",
+      "title": "High Vacuum Chamber Basics, Part 2 - Atmospheric to 1e-6 Torr Pumpdown Procedure",
+      "channel": "Sam Zeloof",
+      "published": "2017-05-26T00:58:29+00:00"
+    },
+    {
+      "id": "OuwwfslvWC8",
+      "title": "sp04 - Hello, Kevin - A Dental Journey - Spacepigs | Revision 2017",
+      "channel": "Demoscene HQ",
+      "published": "2017-04-17T12:27:00+00:00"
+    },
+    {
+      "id": "sLT--TtkzSE",
+      "title": "Outline Invitation - Desire & The Undead Sceners | Revision 2017",
+      "channel": "Demoscene HQ",
+      "published": "2017-04-17T09:20:06+00:00"
+    },
+    {
+      "id": "HpAMtE4i8zg",
+      "title": "H - Immersion - Ctrl-Alt-Test | Revision 2017 | 64k",
+      "channel": "Demoscene HQ",
+      "published": "2017-04-16T09:19:45+00:00"
+    },
+    {
+      "id": "LA_DrBwkiJA",
+      "title": "Compiling C to printable x86, to make an executable research paper",
+      "channel": "suckerpinch",
+      "published": "2017-03-31T20:32:35+00:00"
+    },
+    {
+      "id": "kzyF80KJhuM",
+      "title": "Glittermorphosis - Eos | 4k | Under Construction",
+      "channel": "Demoscene HQ",
+      "published": "2016-12-29T13:29:58+00:00"
+    },
+    {
+      "id": "JeVqTLvGN5k",
+      "title": "Elysian - Logicoma | 64k | TRSAC (party version)",
+      "channel": "Demoscene HQ",
+      "published": "2016-10-24T12:57:15+00:00"
+    },
+    {
+      "id": "0Fo3I6SmVzM",
+      "title": "Nordic Cathedral - Alcatraz  & LJ | 4k | Nordlicht 2016",
+      "channel": "Demoscene HQ",
+      "published": "2016-07-03T11:04:58+00:00"
+    },
+    {
+      "id": "GIFrs7dqv1E",
+      "title": "Requiem for a CPC - Alcatraz | 4k | Nordlicht 2016",
+      "channel": "Demoscene HQ",
+      "published": "2016-07-03T10:30:14+00:00"
+    },
+    {
+      "id": "jyVJmdyQfu4",
+      "title": "Nordausgang - Alcatraz & LJ | 8k | Nordlicht 2016",
+      "channel": "Demoscene HQ",
+      "published": "2016-07-03T10:23:05+00:00"
+    },
+    {
+      "id": "-N5CLcSkkWs",
+      "title": "Through the Cracks - Still | 60fps | Revision 2016",
+      "channel": "Demoscene HQ",
+      "published": "2016-03-28T20:45:33+00:00"
+    },
+    {
+      "id": "_SEGm2lUSY0",
+      "title": "Darkness Lay Your Eyes Upon Me - Conspiracy | Revision 2016 | 60fps | 64k",
+      "channel": "Demoscene HQ",
+      "published": "2016-03-28T14:51:23+00:00"
+    },
+    {
+      "id": "QoLyR7l1tmY",
+      "title": "True Colors - Still | 60fps | Revision 2016",
+      "channel": "Demoscene HQ",
+      "published": "2016-03-28T13:08:25+00:00"
+    },
+    {
+      "id": "-QhqOsZ4V-s",
+      "title": "Nexus 8 - Loonies | Revision 2016 | 8k",
+      "channel": "Demoscene HQ",
+      "published": "2016-03-28T12:18:05+00:00"
+    },
+    {
+      "id": "N7pqRW89mTE",
+      "title": "Bette Davis - TRSI | Revision 2016 | 60fps | 8k",
+      "channel": "Demoscene HQ",
+      "published": "2016-03-28T11:23:54+00:00"
+    },
+    {
+      "id": "TD_F2JnlbtE",
+      "title": "Emulaatio - Epoch | Revision 2016",
+      "channel": "Demoscene HQ",
+      "published": "2016-03-28T09:29:26+00:00"
+    },
+    {
+      "id": "JZ6ZzJeWgpY",
+      "title": "fermi paradox - mercury | 60fps | Revision 2016 | 64k",
+      "channel": "Demoscene HQ",
+      "published": "2016-03-27T11:57:44+00:00"
+    },
+    {
+      "id": "sFrVdoOhu1Q",
+      "title": "High precision air bearing CNC lathe and grinder",
+      "channel": "Dan Gelbart",
+      "published": "2015-03-06T20:53:30+00:00"
+    },
+    {
+      "id": "p_HPrY7IJ4E",
+      "title": "Restored 1870 Pratt & Whitney Metal Planer in operation",
+      "channel": "Dan Gelbart",
+      "published": "2014-03-15T19:16:59+00:00"
+    },
+    {
+      "id": "nCfVupLt-Pk",
+      "title": "Building Prototypes  Part 12 of 18 Plastics Forming and Casting",
+      "channel": "Dan Gelbart",
+      "published": "2013-02-06T00:44:26+00:00"
+    },
+    {
+      "id": "NPSQ9DDGWsI",
+      "title": "Building Prototypes Part 11 of 18 Non-Metals",
+      "channel": "Dan Gelbart",
+      "published": "2013-02-06T00:35:37+00:00"
+    },
+    {
+      "id": "dS5kwdaNhZo",
+      "title": "Building Prototypes Part 4 of 18 Bending",
+      "channel": "Dan Gelbart",
+      "published": "2013-02-06T00:23:06+00:00"
+    },
+    {
+      "id": "PaypcVFPs48",
+      "title": "Building Prototypes Dan Gelbart  part 10 of 18  Flexures",
+      "channel": "Dan Gelbart",
+      "published": "2013-02-04T11:37:26+00:00"
+    },
+    {
+      "id": "OjFwcsSU0oc",
+      "title": "Building Prototypes Dan Gelbart  part 9 of 18  Materials",
+      "channel": "Dan Gelbart",
+      "published": "2013-02-04T11:27:51+00:00"
+    },
+    {
+      "id": "RopgrECLSJc",
+      "title": "Building Prototypes Dan Gelbart  part 8 of 18  Enclosures",
+      "channel": "Dan Gelbart",
+      "published": "2013-02-04T11:01:03+00:00"
     }
   ]
 }
