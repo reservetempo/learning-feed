@@ -6,14 +6,14 @@ Live: https://reservetempo.github.io/learning-feed/
 
 ## How it works
 
-- `channels.json` lists the channels.
+- `channels.json` lists the channels, each with a category.
 - `scripts/update.mjs` reads each channel's public YouTube feed (no API key needed) and writes its 15 newest regular videos to `videos.json`.
 - `.github/workflows/update.yml` runs that script once a day in the morning (11:17 UTC) and commits `videos.json` when it changes. GitHub Pages then republishes the site.
 
 ## Add a channel
 
 1. Get the channel ID, which starts with `UC`: on the channel's page, open the "more about this channel" panel, then **Share channel → Copy channel ID**.
-2. Add `{ "name": "Channel Name", "id": "UC..." }` to `channels.json` and push. The workflow runs on that push and adds the channel's videos.
+2. Add `{ "name": "Channel Name", "id": "UC...", "category": "Science" }` to `channels.json` and push. The page makes a filter button for each category; use an existing one (Science, Engineering, Making, Computing, History & culture, News) or a new name. The workflow runs on that push and adds the channel's videos.
 
 ## Run it locally
 
