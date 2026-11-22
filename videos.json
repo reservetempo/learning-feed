@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-22T18:29:40.265Z",
+  "updated": "2026-11-22T22:07:01.036Z",
   "videos": [
+    {
+      "id": "0bFY-HZjBaU",
+      "title": "COP31 climate talks in Turkey collapse over fossil fuels",
+      "channel": "CBC News",
+      "published": "2026-11-22T20:28:18+00:00"
+    },
+    {
+      "id": "VG25VWTdWs4",
+      "title": "What would a Quebecor-Telus merger mean for your phone bill?",
+      "channel": "CBC News",
+      "published": "2026-11-22T18:27:46+00:00"
+    },
+    {
+      "id": "IZrOJcKe72k",
+      "title": "Sunday Scrum | Trump trashes Canada again; Poilievre faces leadership questions",
+      "channel": "CBC News",
+      "published": "2026-11-22T18:23:37+00:00"
+    },
+    {
+      "id": "vIAoqVYNMzk",
+      "title": "Can Canada manage the security risks that come with a China trade deal?",
+      "channel": "CBC News",
+      "published": "2026-11-22T18:02:36+00:00"
+    },
+    {
+      "id": "S3hzu8yBHpI",
+      "title": "Trump calling Putin a friend is 'appalling,' says former ambassador to NATO",
+      "channel": "CBC News",
+      "published": "2026-11-22T17:55:04+00:00"
+    },
     {
       "id": "XCPM4tX3GAA",
       "title": "The Arthropod Tier List",
@@ -20,10 +50,82 @@
       "published": "2026-11-22T02:02:12+00:00"
     },
     {
+      "id": "RJAR4732Ue0",
+      "title": "Hegseth reportedly moves to restrict defence ties with Canada",
+      "channel": "CBC News",
+      "published": "2026-11-21T22:26:08+00:00"
+    },
+    {
       "id": "k4AEZ35VklM",
       "title": "I Built a $50 Nanometer Encoder",
       "channel": "Breaking Taps",
       "published": "2026-11-21T21:43:40+00:00"
+    },
+    {
+      "id": "QpFpzAzLvf8",
+      "title": "Montreal police arrest 2 ex-officers over alleged racial incidents",
+      "channel": "CBC News",
+      "published": "2026-11-21T19:02:23+00:00"
+    },
+    {
+      "id": "peBwNacNIQQ",
+      "title": "FBI investigating apparent hack of its criminal database",
+      "channel": "CBC News",
+      "published": "2026-11-21T17:36:03+00:00"
+    },
+    {
+      "id": "H5-OqZSicDU",
+      "title": "The U.A.E. Quietly Built Two Bases in Somalia. Now the U.S. Is Eyeing Them.",
+      "channel": "The New York Times",
+      "published": "2026-11-21T15:00:01+00:00"
+    },
+    {
+      "id": "XI5HoAj7ELM",
+      "title": "Could history help predict the next two years of US politics? | Martin Wolf on the US midterms",
+      "channel": "Financial Times",
+      "published": "2026-11-21T05:00:05+00:00"
+    },
+    {
+      "id": "meeM94wmv7M",
+      "title": "B.C. arbitrator imposes 1st union contract for Amazon workers in North America | Hanomansing Live",
+      "channel": "CBC News",
+      "published": "2026-11-21T01:54:59+00:00"
+    },
+    {
+      "id": "gTrDKC7uuCM",
+      "title": "'We deserve answers,' says laid-off Stellantis worker | Hanomansing Live",
+      "channel": "CBC News",
+      "published": "2026-11-21T01:51:20+00:00"
+    },
+    {
+      "id": "rCyoVojyCY4",
+      "title": "If you get a deal on 338 tariffs, take it — Dems will handle the rest: U.S. sen. | Power & Politics",
+      "channel": "CBC News",
+      "published": "2026-11-21T00:54:33+00:00"
+    },
+    {
+      "id": "bJWXYZ8dZrM",
+      "title": "Canadians need a trade deal, not promises: Conservative critic | Power & Politics",
+      "channel": "CBC News",
+      "published": "2026-11-21T00:48:22+00:00"
+    },
+    {
+      "id": "8VWN2mnHc-I",
+      "title": "A 'tiny bit of a door open' for feds to stop sale of Stellantis plant: Unifor | Power & Politics",
+      "channel": "CBC News",
+      "published": "2026-11-21T00:43:09+00:00"
+    },
+    {
+      "id": "j0Zrb-jHeVA",
+      "title": "Political Pulse: Signs of progress in Canada-U.S. trade talks | Power & Politics",
+      "channel": "CBC News",
+      "published": "2026-11-21T00:20:53+00:00"
+    },
+    {
+      "id": "7JWlGOGmYHw",
+      "title": "Sneaky sales: Investigating online shopping pressure tactics | Marketplace",
+      "channel": "CBC News",
+      "published": "2026-11-21T00:00:09+00:00"
     },
     {
       "id": "tDrGZPt4qIY",
@@ -38,6 +140,12 @@
       "published": "2026-11-20T16:47:09+00:00"
     },
     {
+      "id": "IhadoD7FkJQ",
+      "title": "UK industry's power problem | FT Film",
+      "channel": "Financial Times",
+      "published": "2026-11-19T06:00:19+00:00"
+    },
+    {
       "id": "uXuQF_PPg5U",
       "title": "Randomness is a lie. Let me explain",
       "channel": "Veritasium",
@@ -48,6 +156,12 @@
       "title": "Single Flute Bits Are WEIRD!",
       "channel": "Know Art",
       "published": "2026-11-18T18:57:35+00:00"
+    },
+    {
+      "id": "sPdgDu-_4Qo",
+      "title": "Why Billie Jean King Had to Go Public About Her Affair & Abortion",
+      "channel": "The New York Times",
+      "published": "2026-11-18T14:00:07+00:00"
     },
     {
       "id": "qbsb9DpdZ6s",
@@ -62,10 +176,40 @@
       "published": "2026-11-17T14:00:10+00:00"
     },
     {
+      "id": "koWN6Ki0Bvk",
+      "title": "How the FT investigated Deutsche Bank | FT",
+      "channel": "Financial Times",
+      "published": "2026-11-17T06:19:03+00:00"
+    },
+    {
       "id": "8tqtdvFw-9I",
       "title": "Why Square Wheels Are FASTER Down A Slope",
       "channel": "Know Art",
       "published": "2026-11-14T16:00:34+00:00"
+    },
+    {
+      "id": "ssbDT3eb-Pc",
+      "title": "Trump loses. European populism lives on | Martin Wolf on the US midterms | FT",
+      "channel": "Financial Times",
+      "published": "2026-11-14T05:00:33+00:00"
+    },
+    {
+      "id": "QcrceG0BGIk",
+      "title": "How Peter Farrelly Captured a New Side of ‘Rocky’ | Anatomy of a Scene",
+      "channel": "The New York Times",
+      "published": "2026-11-13T16:00:02+00:00"
+    },
+    {
+      "id": "_GyVucbdf5w",
+      "title": "How Conservatives Feel About the Democrats’ Wins in Texas",
+      "channel": "The New York Times",
+      "published": "2026-11-13T15:00:39+00:00"
+    },
+    {
+      "id": "gOccCAk2BN8",
+      "title": "Can Britain afford to lead European defence? | FT",
+      "channel": "Financial Times",
+      "published": "2026-11-12T16:04:58+00:00"
     },
     {
       "id": "8lkIFYpI0p8",
@@ -74,10 +218,34 @@
       "published": "2026-11-12T15:14:45+00:00"
     },
     {
+      "id": "VP7i4BLrrrg",
+      "title": "Inside Ken Griffin's Miami",
+      "channel": "Financial Times",
+      "published": "2026-11-11T16:10:56+00:00"
+    },
+    {
+      "id": "owO_lyMZC6I",
+      "title": "Videos Show Critical Policing Errors in Fatal Shooting of Toddler in Mississippi",
+      "channel": "The New York Times",
+      "published": "2026-11-11T15:00:30+00:00"
+    },
+    {
+      "id": "Ja-dswx7SXE",
+      "title": "How ICE Raids Helped Flip a Kansas County Blue",
+      "channel": "The New York Times",
+      "published": "2026-11-10T15:00:35+00:00"
+    },
+    {
       "id": "n05Yu3UAI_o",
       "title": "My First Mistake as an Engineer",
       "channel": "Practical Engineering",
       "published": "2026-11-10T14:00:20+00:00"
+    },
+    {
+      "id": "uVcqgwWvWUw",
+      "title": "UK Defence Secretary Wes Streeting on the challenges and threats Britain faces | FT Interview",
+      "channel": "Financial Times",
+      "published": "2026-11-10T06:00:33+00:00"
     },
     {
       "id": "xod_mCN-K38",
@@ -86,10 +254,22 @@
       "published": "2026-11-07T16:32:11+00:00"
     },
     {
+      "id": "eDw6P2cTpWs",
+      "title": "Inside the Nightclub Sheltering Haitians From Violent Gangs",
+      "channel": "The New York Times",
+      "published": "2026-11-07T16:00:11+00:00"
+    },
+    {
       "id": "eFwFXjgD1ak",
       "title": "How Much Video Editing Power Can We Fit in a Tiny PC?",
       "channel": "Tech Ingredients",
       "published": "2026-11-07T16:00:07+00:00"
+    },
+    {
+      "id": "bMvLILBpuH8",
+      "title": "What next for the Democrats? | Martin Wolf on the US midterms | FT",
+      "channel": "Financial Times",
+      "published": "2026-11-06T16:59:32+00:00"
     },
     {
       "id": "ln0zZcQXv38",
@@ -116,10 +296,28 @@
       "published": "2026-11-04T15:52:59+00:00"
     },
     {
+      "id": "Zdm1DoIV7SI",
+      "title": "What Men Actually Confess in a Legal Brothel",
+      "channel": "The New York Times",
+      "published": "2026-11-04T14:00:14+00:00"
+    },
+    {
       "id": "JsRiC6vGb1E",
       "title": "Windows Are Absurd",
       "channel": "Practical Engineering",
       "published": "2026-11-03T14:00:39+00:00"
+    },
+    {
+      "id": "_d3nhkmuXz4",
+      "title": "Why nuclear power could be key to colonising the moon | FT Rethink",
+      "channel": "Financial Times",
+      "published": "2026-11-03T04:01:44+00:00"
+    },
+    {
+      "id": "-Y3BOk0r9aI",
+      "title": "Trump loses Latino support",
+      "channel": "Financial Times",
+      "published": "2026-11-01T07:45:26+00:00"
     },
     {
       "id": "BuRyQYf03xA",
@@ -134,10 +332,28 @@
       "published": "2026-10-31T16:02:26+00:00"
     },
     {
+      "id": "QvEuMFq8-JA",
+      "title": "How Trump Lost Young Men in Michigan",
+      "channel": "The New York Times",
+      "published": "2026-10-31T14:00:34+00:00"
+    },
+    {
       "id": "Z-2pTzSZtLU",
       "title": "This Material Sorts Itself",
       "channel": "Steve Mould",
       "published": "2026-10-31T12:50:48+00:00"
+    },
+    {
+      "id": "cG6iAcUZunA",
+      "title": "What’s the risk of political violence? | Martin Wolf on the US midterms | FT",
+      "channel": "Financial Times",
+      "published": "2026-10-31T05:00:22+00:00"
+    },
+    {
+      "id": "VnyJW7-iWak",
+      "title": "How Curry Barker Makes a Sad Face Terrifying in ‘Obsession’ | Anatomy of a Scene",
+      "channel": "The New York Times",
+      "published": "2026-10-30T20:00:25+00:00"
     },
     {
       "id": "y1KipwEoRBA",
@@ -146,10 +362,22 @@
       "published": "2026-10-30T15:38:00+00:00"
     },
     {
+      "id": "J6Zebd9wRB4",
+      "title": "How ICE Arrests Depleted a Haitian Work Force",
+      "channel": "The New York Times",
+      "published": "2026-10-30T14:30:36+00:00"
+    },
+    {
       "id": "0n6WoDIluv8",
       "title": "Stopping the antibiotic apocalypse ft.@ExplosionsAndFire | We Can Have Nice Things, Actually: #2",
       "channel": "The Thought Emporium",
       "published": "2026-10-29T16:09:44+00:00"
+    },
+    {
+      "id": "XjY6Og9jgR8",
+      "title": "Why Kansas Ranchers Are Turning on Trump",
+      "channel": "The New York Times",
+      "published": "2026-10-29T16:00:17+00:00"
     },
     {
       "id": "doZ5e4YVdEs",
@@ -164,16 +392,46 @@
       "published": "2026-10-26T19:00:33+00:00"
     },
     {
+      "id": "cuXJ8hLcc2w",
+      "title": "Why Israeli Expats Are Flying Back to Vote",
+      "channel": "The New York Times",
+      "published": "2026-10-26T17:00:21+00:00"
+    },
+    {
+      "id": "jNvyxJEtKx8",
+      "title": "The infinite career - why we can't retire | FT Working It",
+      "channel": "Financial Times",
+      "published": "2026-10-26T06:45:25+00:00"
+    },
+    {
+      "id": "_t-8qel69PY",
+      "title": "Can the world still trust America?  | Martin Wolf on the US midterms | FT",
+      "channel": "Financial Times",
+      "published": "2026-10-24T04:00:04+00:00"
+    },
+    {
       "id": "eyZEqSPeMwg",
       "title": "Relativity is so much weirder than we thought...",
       "channel": "Veritasium",
       "published": "2026-10-23T18:46:44+00:00"
     },
     {
+      "id": "EjBEkpJjmL4",
+      "title": "James Talarico on His Historic Texas Senate Campaign",
+      "channel": "The New York Times",
+      "published": "2026-10-22T21:50:07+00:00"
+    },
+    {
       "id": "_CtsnmZFjVE",
       "title": "A Wedge-Style Hand Vise - Part 5 (Making the Jaw Ends & Final Assembly)",
       "channel": "Clickspring",
       "published": "2026-10-21T18:08:31+00:00"
+    },
+    {
+      "id": "FsqKRuQjhtM",
+      "title": "Why Nikole Hannah-Jones Doesn’t Regret Her Viral Essay",
+      "channel": "The New York Times",
+      "published": "2026-10-21T17:45:09+00:00"
     },
     {
       "id": "awV7FP9sAHE",
@@ -200,10 +458,22 @@
       "published": "2026-10-17T13:00:33+00:00"
     },
     {
+      "id": "cxU52hf4gq8",
+      "title": "Is American democracy safe? | Martin Wolf on the US midterms",
+      "channel": "Financial Times",
+      "published": "2026-10-17T04:00:23+00:00"
+    },
+    {
       "id": "LKrwhjOI8Nc",
       "title": "There's never been a better time to go into math",
       "channel": "3Blue1Brown",
       "published": "2026-10-16T16:15:20+00:00"
+    },
+    {
+      "id": "ZNZZorxKvV0",
+      "title": "The hidden cost of fast furniture waste | FT Rethink",
+      "channel": "Financial Times",
+      "published": "2026-10-15T10:23:06+00:00"
     },
     {
       "id": "-Xchbq3PGZc",
