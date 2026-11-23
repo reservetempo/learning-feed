@@ -1,6 +1,84 @@
 {
-  "updated": "2026-11-22T22:07:01.036Z",
+  "updated": "2026-11-23T22:37:33.254Z",
   "videos": [
+    {
+      "id": "hy81gCQAGiw",
+      "title": "Ottawa providing extra funds for CAF cadet activities after backlash",
+      "channel": "CBC News",
+      "published": "2026-11-23T22:22:40+00:00"
+    },
+    {
+      "id": "kskyWf_kBCo",
+      "title": "‘Him being reinstated does not mean being exonerated,' tech adviser says of Jensen Huang's return",
+      "channel": "CBC News",
+      "published": "2026-11-23T22:13:22+00:00"
+    },
+    {
+      "id": "0g70Cj6rM1k",
+      "title": "Why is Alberta giving breaks to booming oil companies? | West of Centre",
+      "channel": "CBC News",
+      "published": "2026-11-23T20:16:12+00:00"
+    },
+    {
+      "id": "Ikr4RyZiKFI",
+      "title": "Leadership skills or profits? Critics question motive behind Jensen Huang's return to Nvidia",
+      "channel": "CBC News",
+      "published": "2026-11-23T18:08:55+00:00"
+    },
+    {
+      "id": "4ZFpbwT_agM",
+      "title": "Quebec's legislators must swear allegiance to the King, judge rules",
+      "channel": "CBC News",
+      "published": "2026-11-23T17:42:45+00:00"
+    },
+    {
+      "id": "1_PXz97MMJA",
+      "title": "Tech stocks soar after Nvidia reinstates Jensen Huang as CEO",
+      "channel": "CBC News",
+      "published": "2026-11-23T15:56:03+00:00"
+    },
+    {
+      "id": "14UEGsLn4XQ",
+      "title": "Who's spying on whom and why? | Front Burner",
+      "channel": "CBC News",
+      "published": "2026-11-23T15:15:45+00:00"
+    },
+    {
+      "id": "igA_pvGBCLA",
+      "title": "ChatGPT for Teens' safeguards often fail to prevent harmful responses: report",
+      "channel": "CBC News",
+      "published": "2026-11-23T14:52:48+00:00"
+    },
+    {
+      "id": "eUYSlACnd2g",
+      "title": "Attacks on Palestinian medics in West Bank surge 350%: rights group",
+      "channel": "CBC News",
+      "published": "2026-11-23T13:46:25+00:00"
+    },
+    {
+      "id": "2KUcxHCV8YQ",
+      "title": "Zelenskyy confirms Ukraine carried out drone attacks on Russian vessels off Libya",
+      "channel": "CBC News",
+      "published": "2026-11-23T12:26:49+00:00"
+    },
+    {
+      "id": "jbHbuFeofSU",
+      "title": "FULL SPEECH | Poilievre takes aim at Carney, Trudeau at press gallery dinner",
+      "channel": "CBC News",
+      "published": "2026-11-23T02:39:03+00:00"
+    },
+    {
+      "id": "C0_xJtiPhT0",
+      "title": "FULL SPEECH | Carney roasts opposition, Trump at press gallery dinner",
+      "channel": "CBC News",
+      "published": "2026-11-23T02:08:28+00:00"
+    },
+    {
+      "id": "S9-roe8ashY",
+      "title": "This man started a petition to force telcos to answer customer calls within 10 minutes | Go Public",
+      "channel": "CBC News",
+      "published": "2026-11-23T02:00:20+00:00"
+    },
     {
       "id": "0bFY-HZjBaU",
       "title": "COP31 climate talks in Turkey collapse over fossil fuels",
@@ -14,24 +92,6 @@
       "published": "2026-11-22T18:27:46+00:00"
     },
     {
-      "id": "IZrOJcKe72k",
-      "title": "Sunday Scrum | Trump trashes Canada again; Poilievre faces leadership questions",
-      "channel": "CBC News",
-      "published": "2026-11-22T18:23:37+00:00"
-    },
-    {
-      "id": "vIAoqVYNMzk",
-      "title": "Can Canada manage the security risks that come with a China trade deal?",
-      "channel": "CBC News",
-      "published": "2026-11-22T18:02:36+00:00"
-    },
-    {
-      "id": "S3hzu8yBHpI",
-      "title": "Trump calling Putin a friend is 'appalling,' says former ambassador to NATO",
-      "channel": "CBC News",
-      "published": "2026-11-22T17:55:04+00:00"
-    },
-    {
       "id": "XCPM4tX3GAA",
       "title": "The Arthropod Tier List",
       "channel": "TierZoo",
@@ -39,7 +99,7 @@
     },
     {
       "id": "XT7BrmEKaVo",
-      "title": "Could this become the world’s next biggest airshow? | UP.Summit",
+      "title": "3 Days at Kennedy Space Center With the People Building What’s Next | UP.Summit",
       "channel": "S3",
       "published": "2026-11-22T17:00:06+00:00"
     },
@@ -50,28 +110,10 @@
       "published": "2026-11-22T02:02:12+00:00"
     },
     {
-      "id": "RJAR4732Ue0",
-      "title": "Hegseth reportedly moves to restrict defence ties with Canada",
-      "channel": "CBC News",
-      "published": "2026-11-21T22:26:08+00:00"
-    },
-    {
       "id": "k4AEZ35VklM",
       "title": "I Built a $50 Nanometer Encoder",
       "channel": "Breaking Taps",
       "published": "2026-11-21T21:43:40+00:00"
-    },
-    {
-      "id": "QpFpzAzLvf8",
-      "title": "Montreal police arrest 2 ex-officers over alleged racial incidents",
-      "channel": "CBC News",
-      "published": "2026-11-21T19:02:23+00:00"
-    },
-    {
-      "id": "peBwNacNIQQ",
-      "title": "FBI investigating apparent hack of its criminal database",
-      "channel": "CBC News",
-      "published": "2026-11-21T17:36:03+00:00"
     },
     {
       "id": "H5-OqZSicDU",
@@ -84,48 +126,6 @@
       "title": "Could history help predict the next two years of US politics? | Martin Wolf on the US midterms",
       "channel": "Financial Times",
       "published": "2026-11-21T05:00:05+00:00"
-    },
-    {
-      "id": "meeM94wmv7M",
-      "title": "B.C. arbitrator imposes 1st union contract for Amazon workers in North America | Hanomansing Live",
-      "channel": "CBC News",
-      "published": "2026-11-21T01:54:59+00:00"
-    },
-    {
-      "id": "gTrDKC7uuCM",
-      "title": "'We deserve answers,' says laid-off Stellantis worker | Hanomansing Live",
-      "channel": "CBC News",
-      "published": "2026-11-21T01:51:20+00:00"
-    },
-    {
-      "id": "rCyoVojyCY4",
-      "title": "If you get a deal on 338 tariffs, take it — Dems will handle the rest: U.S. sen. | Power & Politics",
-      "channel": "CBC News",
-      "published": "2026-11-21T00:54:33+00:00"
-    },
-    {
-      "id": "bJWXYZ8dZrM",
-      "title": "Canadians need a trade deal, not promises: Conservative critic | Power & Politics",
-      "channel": "CBC News",
-      "published": "2026-11-21T00:48:22+00:00"
-    },
-    {
-      "id": "8VWN2mnHc-I",
-      "title": "A 'tiny bit of a door open' for feds to stop sale of Stellantis plant: Unifor | Power & Politics",
-      "channel": "CBC News",
-      "published": "2026-11-21T00:43:09+00:00"
-    },
-    {
-      "id": "j0Zrb-jHeVA",
-      "title": "Political Pulse: Signs of progress in Canada-U.S. trade talks | Power & Politics",
-      "channel": "CBC News",
-      "published": "2026-11-21T00:20:53+00:00"
-    },
-    {
-      "id": "7JWlGOGmYHw",
-      "title": "Sneaky sales: Investigating online shopping pressure tactics | Marketplace",
-      "channel": "CBC News",
-      "published": "2026-11-21T00:00:09+00:00"
     },
     {
       "id": "tDrGZPt4qIY",
@@ -831,7 +831,7 @@
     },
     {
       "id": "GlYgs6v2YfU",
-      "title": "But what is cross-entropy? | Information theory, part 2",
+      "title": "What is cross-entropy, and why is it used in ML? | Information theory, part 2",
       "channel": "3Blue1Brown",
       "published": "2026-07-16T11:56:04+00:00"
     },
@@ -963,7 +963,7 @@
     },
     {
       "id": "l6DKRf-fAAM",
-      "title": "Reinventing Entropy | Information theory, part 1",
+      "title": "Shannon's dream: The limit of compressibility | Information theory, part 1",
       "channel": "3Blue1Brown",
       "published": "2026-06-07T11:49:51+00:00"
     },
