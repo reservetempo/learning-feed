@@ -13,7 +13,7 @@ Live: https://reservetempo.github.io/learning-feed/
 ## Add a channel
 
 1. Get the channel ID, which starts with `UC`: on the channel's page, open the "more about this channel" panel, then **Share channel → Copy channel ID**.
-2. Add `{ "name": "Channel Name", "id": "UC...", "category": "Science" }` to `channels.json` and push. The page makes a filter button for each category; use an existing one (Science, Engineering, Making, Computing, History & culture, News) or a new name. The workflow runs on that push and adds the channel's videos.
+2. Add `{ "name": "Channel Name", "id": "UC...", "category": "Science" }` to `channels.json` and push. The page makes a filter button for each category; use an existing one (Science, Engineering, Electronics, Making, Computing, History & culture, News) or a new name. The workflow runs on that push and adds the channel's videos.
 
 ## Run it locally
 
