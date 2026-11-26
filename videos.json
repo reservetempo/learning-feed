@@ -1,29 +1,101 @@
 {
-  "updated": "2026-11-25T20:28:23.530Z",
+  "updated": "2026-11-26T20:10:33.232Z",
   "videos": [
+    {
+      "id": "9VlfvcqZQFk",
+      "title": "As EU debates Ukraine aid, U.S. envoy praises Putin's 'restraint' in not using nuclear weapons",
+      "channel": "CBC News",
+      "published": "2026-11-26T19:48:45+00:00"
+    },
+    {
+      "id": "UA52XrbQHNs",
+      "title": "2 arrested after investigation into GTA home invasions, police say",
+      "channel": "CBC News",
+      "published": "2026-11-26T19:21:41+00:00"
+    },
+    {
+      "id": "fUQTKhRE8Eg",
+      "title": "Could Ottawa seize farmers' land for high-speed rail? | The Current",
+      "channel": "CBC News",
+      "published": "2026-11-26T18:19:19+00:00"
+    },
+    {
+      "id": "nn5Iay2T2CM",
+      "title": "Ontario imposing new e-bike regulations from May 1, 2027",
+      "channel": "CBC News",
+      "published": "2026-11-26T17:00:49+00:00"
+    },
+    {
+      "id": "hoy-M8HqNT8",
+      "title": "Israeli judges call to drop 1 of Netanyahu's 3 corruption charges",
+      "channel": "CBC News",
+      "published": "2026-11-26T16:48:38+00:00"
+    },
+    {
+      "id": "0vhe_V2sbRE",
+      "title": "Supreme Court to rule on minority rights debate | Front Burner",
+      "channel": "CBC News",
+      "published": "2026-11-26T15:42:21+00:00"
+    },
+    {
+      "id": "SXx-sbU6et8",
+      "title": "Kites on ships, trash on fire, and a frosty coat of paint | We can have nice things, actually #3",
+      "channel": "The Thought Emporium",
+      "published": "2026-11-26T15:35:55+00:00"
+    },
+    {
+      "id": "0vRveTBqpo8",
+      "title": "Musician killed after another Toronto home invasion | Hanomansing Live",
+      "channel": "CBC News",
+      "published": "2026-11-26T14:57:48+00:00"
+    },
+    {
+      "id": "GFS9IGSrzug",
+      "title": "Nearly half of rural P.E.I. councillors are women. What's holding others back?",
+      "channel": "CBC News",
+      "published": "2026-11-26T11:39:09+00:00"
+    },
+    {
+      "id": "ciYPKt5s_No",
+      "title": "Is Carney taking control or losing control of immigration? | Power & Politics",
+      "channel": "CBC News",
+      "published": "2026-11-26T01:29:51+00:00"
+    },
+    {
+      "id": "xFt76N3IS6I",
+      "title": "What do Trump’s latest tariffs tell us about his trade war with Canada? | Power & Politics",
+      "channel": "CBC News",
+      "published": "2026-11-26T01:26:05+00:00"
+    },
+    {
+      "id": "8L4EpvggWJM",
+      "title": "Why is NATO praising Canada while the Pentagon threatens consequences? | Power & Politics",
+      "channel": "CBC News",
+      "published": "2026-11-26T01:21:24+00:00"
+    },
+    {
+      "id": "OEqL9YvnQK4",
+      "title": "Ottawa like you've never seen it | The Current",
+      "channel": "CBC News",
+      "published": "2026-11-25T22:29:43+00:00"
+    },
+    {
+      "id": "NlaD3LHZCFA",
+      "title": "No lead in air after Iowa explosion of bomb-making material, U.S. officials say",
+      "channel": "CBC News",
+      "published": "2026-11-25T22:17:40+00:00"
+    },
+    {
+      "id": "HhZcYPzfSgM",
+      "title": "Canada needs more entrepreneurs. Can AI help? | Cost of Living",
+      "channel": "CBC News",
+      "published": "2026-11-25T21:22:57+00:00"
+    },
     {
       "id": "_qPJozMQYRc",
       "title": "Ontario premier calls gambling ads 'out of control,' 4 years after expanding market",
       "channel": "CBC News",
       "published": "2026-11-25T19:45:08+00:00"
-    },
-    {
-      "id": "JvKSjL0rdIM",
-      "title": "Canada taking responsibility for own defence, Carney says after Pentagon criticism",
-      "channel": "CBC News",
-      "published": "2026-11-25T19:38:42+00:00"
-    },
-    {
-      "id": "x5L6NJPcFrY",
-      "title": "Everyone's figuring out how to deal with Trump right now",
-      "channel": "CBC News",
-      "published": "2026-11-25T17:40:08+00:00"
-    },
-    {
-      "id": "2ltULob4zkk",
-      "title": "Women, children bearing the brunt of environmental damage to Gaza, says Oxfam",
-      "channel": "CBC News",
-      "published": "2026-11-25T16:05:26+00:00"
     },
     {
       "id": "W4q9KCe3zMM",
@@ -38,80 +110,14 @@
       "published": "2026-11-25T16:00:05+00:00"
     },
     {
-      "id": "rVyu9Gkjv10",
-      "title": "World hockey body to appeal ruling that forces it to allow Russian participation",
-      "channel": "CBC News",
-      "published": "2026-11-25T15:52:07+00:00"
-    },
-    {
-      "id": "YYO5t2O9e74",
-      "title": "How to protect against Black Friday shopping scams",
-      "channel": "CBC News",
-      "published": "2026-11-25T15:06:14+00:00"
-    },
-    {
-      "id": "po96G7wU3M8",
-      "title": "Why did Trump back Jensen Huang's return? | Front Burner",
-      "channel": "CBC News",
-      "published": "2026-11-25T14:54:32+00:00"
-    },
-    {
       "id": "WbM7GP7QoEM",
       "title": "Scientists Said This Wave Was Impossible",
       "channel": "Veritasium",
       "published": "2026-11-25T14:00:52+00:00"
     },
     {
-      "id": "rX70WUY_ENE",
-      "title": "This home is older than Canada. Here's what was hiding inside",
-      "channel": "CBC News",
-      "published": "2026-11-25T13:49:06+00:00"
-    },
-    {
-      "id": "upS3gb6p0rM",
-      "title": "U.S. Army plans to detonate bomb-making chemicals in Iowa | Hanomansing Live",
-      "channel": "CBC News",
-      "published": "2026-11-25T01:14:57+00:00"
-    },
-    {
-      "id": "H5LaNDq9oLc",
-      "title": "B.C. coast could get up to 225 mm of rain, flooding in next 24 hours | Hanomansing Live",
-      "channel": "CBC News",
-      "published": "2026-11-25T00:58:40+00:00"
-    },
-    {
-      "id": "Ub8_xme4emg",
-      "title": "Conservative MP says planned Alto land-seizure powers will 'railroad' landowners | Power & Politics",
-      "channel": "CBC News",
-      "published": "2026-11-25T00:51:05+00:00"
-    },
-    {
-      "id": "nAjVFsa4lJA",
-      "title": "What do recent changes to Bill C-39 mean for Canadian workers? | Power & Politics",
-      "channel": "CBC News",
-      "published": "2026-11-25T00:45:27+00:00"
-    },
-    {
-      "id": "-qw4vV5Shww",
-      "title": "Constitutional standoff looms as Quebec appeals ruling over oath to the King",
-      "channel": "CBC News",
-      "published": "2026-11-25T00:40:33+00:00"
-    },
-    {
-      "id": "56RFYaxh5Rk",
-      "title": "New Canada-Qatar deal will 'open the door' to more trade and investment: minister | Power & Politics",
-      "channel": "CBC News",
-      "published": "2026-11-25T00:31:13+00:00"
-    },
-    {
-      "id": "sk36CJf7eDI",
-      "title": "Nvidia brings back Jensen Huang. But at what cost? | The Current",
-      "channel": "CBC News",
-      "published": "2026-11-24T22:42:56+00:00"
-    },
-    {
       "id": "mugULawdFzA",
-      "title": "This ancient Mayan farming system still works | We can have nice things, actually [clip]",
+      "title": "[clip] This ancient Mayan farming system still works | We can have nice things, actually",
       "channel": "The Thought Emporium",
       "published": "2026-11-24T17:48:45+00:00"
     },
@@ -225,7 +231,7 @@
     },
     {
       "id": "qbsb9DpdZ6s",
-      "title": "This algorithm changed how I think about compression | Information theory, part 3",
+      "title": "This algorithm changed how I think about compression | Compression & Intelligence, part 3",
       "channel": "3Blue1Brown",
       "published": "2026-11-17T16:43:16+00:00"
     },
@@ -1095,7 +1101,7 @@
     },
     {
       "id": "GlYgs6v2YfU",
-      "title": "What is cross-entropy, and why is it used in ML? | Information theory, part 2",
+      "title": "What is cross-entropy, and why is it used in ML? | Compression & Intelligence, part 2",
       "channel": "3Blue1Brown",
       "published": "2026-07-16T11:56:04+00:00"
     },
@@ -1293,7 +1299,7 @@
     },
     {
       "id": "l6DKRf-fAAM",
-      "title": "Shannon's dream: The limit of compressibility | Information theory, part 1",
+      "title": "How to invent entropy | Compression & Intelligence, part 1",
       "channel": "3Blue1Brown",
       "published": "2026-06-07T11:49:51+00:00"
     },
@@ -2118,12 +2124,6 @@
       "title": "The Antikythera Mechanism Episode 12, Part 3 - Completing The Lunar Phase Assembly",
       "channel": "Clickspring",
       "published": "2025-11-01T16:00:20+00:00"
-    },
-    {
-      "id": "HW-aygjNU1Q",
-      "title": "How hard is making a clone, really?",
-      "channel": "The Thought Emporium",
-      "published": "2025-10-24T16:00:38+00:00"
     },
     {
       "id": "GmwaJnj6pfY",
@@ -3129,7 +3129,7 @@
     },
     {
       "id": "ZPTFFPLOzCw",
-      "title": "Making Quantum Mirrors with Diamonds",
+      "title": "Cutting Mirrors with Diamonds",
       "channel": "Breaking Taps",
       "published": "2024-08-28T18:25:07+00:00"
     },
