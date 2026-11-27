@@ -1,6 +1,90 @@
 {
-  "updated": "2026-11-26T20:10:33.232Z",
+  "updated": "2026-11-27T19:56:23.095Z",
   "videos": [
+    {
+      "id": "mvpjK2b9KRk",
+      "title": "What the Supreme Court's Bill 21 decision means for Quebec and its residents",
+      "channel": "CBC News",
+      "published": "2026-11-27T19:17:42+00:00"
+    },
+    {
+      "id": "tVilfb-5TR4",
+      "title": "Bill 21 ruling recognized Quebec's distinct character, says prof who help write it",
+      "channel": "CBC News",
+      "published": "2026-11-27T19:10:32+00:00"
+    },
+    {
+      "id": "e8h6wDLHv68",
+      "title": "Can the global climate fight get back on track? | Front Burner",
+      "channel": "CBC News",
+      "published": "2026-11-27T16:44:30+00:00"
+    },
+    {
+      "id": "P_pRUcQlIIA",
+      "title": "'Still room' for debate around Bill 21 despite Supreme Court ruling, law prof says",
+      "channel": "CBC News",
+      "published": "2026-11-27T16:38:53+00:00"
+    },
+    {
+      "id": "6n386byO6KM",
+      "title": "Supreme Court of Canada upholds Quebec’s controversial secularism law",
+      "channel": "CBC News",
+      "published": "2026-11-27T15:28:58+00:00"
+    },
+    {
+      "id": "2zFLGfxnZtE",
+      "title": "Ukraine's Zelenskyy likens Trump's friendship with Putin to friendship with Hitler",
+      "channel": "CBC News",
+      "published": "2026-11-27T15:14:22+00:00"
+    },
+    {
+      "id": "NhhNU5EHok4",
+      "title": "Defending Aden, Yemen’s Holdout Against the Houthis",
+      "channel": "The New York Times",
+      "published": "2026-11-27T15:00:20+00:00"
+    },
+    {
+      "id": "W20aBqe5tJA",
+      "title": "P.E.I.'s famous oysters are in crisis. Can the industry be saved?",
+      "channel": "CBC News",
+      "published": "2026-11-27T13:10:01+00:00"
+    },
+    {
+      "id": "fE49-DYK0r8",
+      "title": "Down but not out: why ESG investing isn’t going away | FT Rethink",
+      "channel": "Financial Times",
+      "published": "2026-11-27T10:34:30+00:00"
+    },
+    {
+      "id": "URjEI0ImFbk",
+      "title": "Musician killed in home invasion was 'pillar in the Toronto music scene': friend | Hanomansing Live",
+      "channel": "CBC News",
+      "published": "2026-11-27T01:24:45+00:00"
+    },
+    {
+      "id": "Ir1ecwaifnE",
+      "title": "Can Ontario stop the Stellantis Brampton plant sale? | Power & Politics",
+      "channel": "CBC News",
+      "published": "2026-11-27T00:39:31+00:00"
+    },
+    {
+      "id": "tJFJB44H-Vk",
+      "title": "Supreme Court is ruling on Quebec's Bill 21. What are the national implications? | Power & Politics",
+      "channel": "CBC News",
+      "published": "2026-11-27T00:35:59+00:00"
+    },
+    {
+      "id": "bCkqa3Dbnwg",
+      "title": "MacKinnon says ‘delays cost money,’ defends expediting Alto land expropriation | Power & Politics",
+      "channel": "CBC News",
+      "published": "2026-11-27T00:25:23+00:00"
+    },
+    {
+      "id": "GCRFKzo46WE",
+      "title": "Soldiers injured in CFB Wainwright fire still face 'long and challenging' recovery: doctors",
+      "channel": "CBC News",
+      "published": "2026-11-26T21:05:58+00:00"
+    },
     {
       "id": "9VlfvcqZQFk",
       "title": "As EU debates Ukraine aid, U.S. envoy praises Putin's 'restraint' in not using nuclear weapons",
@@ -20,82 +104,10 @@
       "published": "2026-11-26T18:19:19+00:00"
     },
     {
-      "id": "nn5Iay2T2CM",
-      "title": "Ontario imposing new e-bike regulations from May 1, 2027",
-      "channel": "CBC News",
-      "published": "2026-11-26T17:00:49+00:00"
-    },
-    {
-      "id": "hoy-M8HqNT8",
-      "title": "Israeli judges call to drop 1 of Netanyahu's 3 corruption charges",
-      "channel": "CBC News",
-      "published": "2026-11-26T16:48:38+00:00"
-    },
-    {
-      "id": "0vhe_V2sbRE",
-      "title": "Supreme Court to rule on minority rights debate | Front Burner",
-      "channel": "CBC News",
-      "published": "2026-11-26T15:42:21+00:00"
-    },
-    {
       "id": "SXx-sbU6et8",
       "title": "Kites on ships, trash on fire, and a frosty coat of paint | We can have nice things, actually #3",
       "channel": "The Thought Emporium",
       "published": "2026-11-26T15:35:55+00:00"
-    },
-    {
-      "id": "0vRveTBqpo8",
-      "title": "Musician killed after another Toronto home invasion | Hanomansing Live",
-      "channel": "CBC News",
-      "published": "2026-11-26T14:57:48+00:00"
-    },
-    {
-      "id": "GFS9IGSrzug",
-      "title": "Nearly half of rural P.E.I. councillors are women. What's holding others back?",
-      "channel": "CBC News",
-      "published": "2026-11-26T11:39:09+00:00"
-    },
-    {
-      "id": "ciYPKt5s_No",
-      "title": "Is Carney taking control or losing control of immigration? | Power & Politics",
-      "channel": "CBC News",
-      "published": "2026-11-26T01:29:51+00:00"
-    },
-    {
-      "id": "xFt76N3IS6I",
-      "title": "What do Trump’s latest tariffs tell us about his trade war with Canada? | Power & Politics",
-      "channel": "CBC News",
-      "published": "2026-11-26T01:26:05+00:00"
-    },
-    {
-      "id": "8L4EpvggWJM",
-      "title": "Why is NATO praising Canada while the Pentagon threatens consequences? | Power & Politics",
-      "channel": "CBC News",
-      "published": "2026-11-26T01:21:24+00:00"
-    },
-    {
-      "id": "OEqL9YvnQK4",
-      "title": "Ottawa like you've never seen it | The Current",
-      "channel": "CBC News",
-      "published": "2026-11-25T22:29:43+00:00"
-    },
-    {
-      "id": "NlaD3LHZCFA",
-      "title": "No lead in air after Iowa explosion of bomb-making material, U.S. officials say",
-      "channel": "CBC News",
-      "published": "2026-11-25T22:17:40+00:00"
-    },
-    {
-      "id": "HhZcYPzfSgM",
-      "title": "Canada needs more entrepreneurs. Can AI help? | Cost of Living",
-      "channel": "CBC News",
-      "published": "2026-11-25T21:22:57+00:00"
-    },
-    {
-      "id": "_qPJozMQYRc",
-      "title": "Ontario premier calls gambling ads 'out of control,' 4 years after expanding market",
-      "channel": "CBC News",
-      "published": "2026-11-25T19:45:08+00:00"
     },
     {
       "id": "W4q9KCe3zMM",
@@ -518,12 +530,6 @@
       "published": "2026-10-23T18:46:44+00:00"
     },
     {
-      "id": "EjBEkpJjmL4",
-      "title": "James Talarico on His Historic Texas Senate Campaign",
-      "channel": "The New York Times",
-      "published": "2026-10-22T21:50:07+00:00"
-    },
-    {
       "id": "_CtsnmZFjVE",
       "title": "A Wedge-Style Hand Vise - Part 5 (Making the Jaw Ends & Final Assembly)",
       "channel": "Clickspring",
@@ -558,12 +564,6 @@
       "title": "I Built a Drone With Only One Motor",
       "channel": "Joshua Bird",
       "published": "2026-10-17T13:00:33+00:00"
-    },
-    {
-      "id": "cxU52hf4gq8",
-      "title": "Is American democracy safe? | Martin Wolf on the US midterms",
-      "channel": "Financial Times",
-      "published": "2026-10-17T04:00:23+00:00"
     },
     {
       "id": "LKrwhjOI8Nc",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": "GlYgs6v2YfU",
-      "title": "What is cross-entropy, and why is it used in ML? | Compression & Intelligence, part 2",
+      "title": "Cross-entropy: Compression ratios as loss functions | Compression & Intelligence, part 2",
       "channel": "3Blue1Brown",
       "published": "2026-07-16T11:56:04+00:00"
     },
